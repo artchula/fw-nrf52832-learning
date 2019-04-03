@@ -1,0 +1,1 @@
+nrfutil pkg generate --hw-version 52 --sd-req 0x9d --bootloader-version 14 --bootloader  "..\src_aider\dfu\bootloader_secure_ble\pca10040\arm5_no_packs\_build\nrf52832_xxaa_s132.hex" --key-file private.pem bootloader_aider_a2_v14.zip

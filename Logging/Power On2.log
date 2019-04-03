@@ -1,0 +1,86 @@
+# SEGGER J-Link RTT Viewer V6.16a Terminal Log File
+# Compiled: 12:44:10 on Jun  6 2017
+# Logging started @ 30 Aug 2018 15:54:32
+  < 
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: BATT Working...
+ 0> <info> app: Raw 933,SOC 100,BattFullDetect 0, 413V
+ 0> <info> app: gender 1, weight 65, height 170
+ 0> <info> app: step 0 
+ 0> <info> app: gender factor: 0.41 
+ 0> <info> app: step rate: 0.00 step/Second
+ 0> <info> app: bsl: 77.60 
+ 0> <info> app: step factor: 0.88 
+ 0> <info> app: stride: 68.29 cm
+ 0> <info> app: distance: 0.00 m
+ 0> <info> app: speed m/S: 0.00 m/S
+ 0> <info> app: speed km/H: 0.00 km/H
+ 0> <info> app: Activity 0
+ 0> <info> app: calories fac: 2.00 cal
+ 0> <info> app: 
+ 0> 
+ 0> <info> app: gender 1, weight 65, height 170
+ 0> <info> app: step 0 
+ 0> <info> app: gender factor: 0.41 
+ 0> <info> app: step rate: 0.00 step/Second
+ 0> <info> app: bsl: 77.60 
+ 0> <info> app: step factor: 0.88 
+ 0> <info> app: stride: 68.29 cm
+ 0> <info> app: distance: 0.00 m
+ 0> <info> app: speed m/S: 0.00 m/S
+ 0> <info> app: speed km/H: 0.00 km/H
+ 0> <info> app: Activity 0
+ 0> <info> app: calories fac: 2.00 cal
+ 0> <info> app: calories: 0.00 cal
+ 0> <info> app: 
+ 0> 
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: BATT Working...
+ 0> <info> app: Raw 932,SOC 100,BattFullDetect 0, 413V
+ 0> <info> app: gender 1, weight 65, height 170
+ 0> <info> app: step 0 
+ 0> <info> app: gender factor: 0.41 
+ 0> <info> app: step rate: 0.00 step/Second
+ 0> <info> app: bsl: 77.60 
+ 0> <info> app: step factor: 0.88 
+ 0> <info> app: stride: 68.29 cm
+ 0> <info> app: distance: 0.00 m
+ 0> <info> app: speed m/S: 0.00 m/S
+ 0> <info> app: speed km/H: 0.00 km/H
+ 0> <info> app: Activity 0
+ 0> <info> app: calories fac: 2.00 cal
+ 0> <info> app: calories: 0.00 cal
+ 0> <info> app: 
+ 0> 
+ 0> <info> app: gender 1, weight 65, height 170
+ 0> <info> app: step 0 
+ 0> <info> app: gender factor: 0.41 
+ 0> <info> app: step rate: 0.00 step/Second
+ 0> <info> app: bsl: 77.60 
+ 0> <info> app: step factor: 0.88 
+ 0> <info> app: stride: 68.29 cm
+ 0> <info> app: distance: 0.00 m
+ 0> <info> app: speed m/S: 0.00 m/S
+ 0> <info> app: speed km/H: 0.00 km/H
+ 0> <info> app: Activity 0
+ 0> <info> app: calories fac: 2.00 cal
+ 0> <info> app: calories: 0.00 cal
+ 0> <info> app: 
+ 0> 
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: gender 1, weight 65, height 170
+ 0> <info> app: step 0 
+ 0> <info> app: gender factor: 0.41 
+ 0> <info> app: step rate: 0.00 step/Second
+ 0> <info> app: bsl: 77.60 
+ 0> <info> app: step factor: 0.88 
+ 0> <info> app: stride: 68.29 cm
+ 0> <info> app: distance: 0.00 m
+ 0> <info> app: speed m/S: 0.00 m/S
+ 0> <info> app: speed km/H: 0.00 km/H
+ 0> <info> app: Activity 0
+ 0> <info> app: calories fac: 2.00 cal
+ 0> <info> app: calories: 0.00 cal
+ 0> <info> app: 
+ 0> 

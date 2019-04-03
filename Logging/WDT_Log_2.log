@@ -1,0 +1,3181 @@
+# SEGGER J-Link RTT Viewer V6.16a Terminal Log File
+# Compiled: 12:44:10 on Jun  6 2017
+# Logging started @ 31 Aug 2018 11:06:40
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 100, HR avr 89
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 69, HR avr 88
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 171, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 930,SOC 100,BattFullDetect 0, 412V
+ 0> <info> app: Save 1535645309, 2313, 9885, -13080,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 54, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 130, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 61, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 88, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 166, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 133, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 150, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 57, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 142, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 928,SOC 100,BattFullDetect 0, 411V
+ 0> <info> app: Save 1535645319, 2252, 9937, -13033,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 84, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 101, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 162, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 76, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 928,SOC 100,BattFullDetect 0, 411V
+ 0> <info> app: Save 1535645329, 2293, 9947, -12985,
+ 0> <info> app: HR raw 75, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 44, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 88, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 73, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 130, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 82, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 65, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 115, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 101, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 929,SOC 100,BattFullDetect 0, 411V
+ 0> <info> app: Save 1535645339, 2315, 10065, -13217,
+ 0> <info> app: HR raw 64, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 127, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 71, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 42, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 76, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 70, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 84, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 67, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 47, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 928,SOC 100,BattFullDetect 0, 411V
+ 0> <info> app: Save 1535645349, 2307, 9965, -13132,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 105, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 66, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 77, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 42, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 139, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 176, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 930,SOC 100,BattFullDetect 0, 412V
+ 0> <info> app: Save 1535645359, 2310, 9884, -13149,
+ 0> <info> app: HR raw 69, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 127, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 53, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 125, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 84, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 122, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 171, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 65, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 82, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 927,SOC 100,BattFullDetect 0, 410V
+ 0> <info> app: Save 1535645369, 2378, 9954, -13099,
+ 0> <info> app: HR raw 73, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 68, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 47, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 166, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> Stable HR = 95   
+ 0> <info> app: T HR 11.43
+ 0> HR Background stop
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 146, HR avr 146
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 82, HR avr 114
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 66, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 940,SOC 100,BattFullDetect 0, 416V
+ 0> <info> app: Save 1535645379, 2238, 9997, -13093,
+ 0> <info> app: HR raw 93, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 77, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 71, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 111, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 105, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 77, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 60, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 931,SOC 100,BattFullDetect 0, 412V
+ 0> <info> app: Save 1535645389, 2290, 9867, -13131,
+ 0> <info> app: Flash Manufac, 0x1F ,Device ID 0x2500
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: Page for write 1313
+ 0> <info> app: Append Success
+ 0> <info> app: Save to flash
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: HR raw 92, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 61, HR avr 88
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 100, HR avr 89
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 81, HR avr 88
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 162, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 115, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 107, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 111, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 157, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 162, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 939,SOC 100,BattFullDetect 0, 416V
+ 0> <info> app: Save 1535645399, 2316, 9967, -13063,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 125, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 113, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 157, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 120, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 92, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 931,SOC 100,BattFullDetect 0, 412V
+ 0> <info> app: Save 1535645409, 2324, 9910, -13050,
+ 0> <info> app: HR raw 68, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 100, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 113, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 61, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 142, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 101, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 95, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 88, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 934,SOC 100,BattFullDetect 0, 413V
+ 0> <info> app: Save 1535645419, 2328, 9923, -13079,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 50, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 96, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 58, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 150, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 176, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 56, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 153, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 111, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 146, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645429, 2291, 9921, -13094,
+ 0> <info> app: HR raw 45, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 142, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 153, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 157, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 105, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> Stable HR = 105   
+ 0> <info> app: T HR 11.50
+ 0> HR Background stop
+ 0> <info> app: Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 81, HR avr 81
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 935,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645439, 2252, 9935, -12986,
+ 0> <info> app: HR raw 101, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 63, HR avr 81
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 52, HR avr 74
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 86, HR avr 76
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 101, HR avr 80
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 70, HR avr 79
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 98, HR avr 81
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 146, HR avr 88
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 935,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645449, 2302, 10018, -13017,
+ 0> <info> app: HR raw 75, HR avr 87
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 130, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 63, HR avr 88
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 76, HR avr 87
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 127, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 111, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 90, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 68, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 136, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 100, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645459, 2317, 9958, -13086,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 43, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 73, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 139, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 81, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 93, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 85, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 57, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 935,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645469, 2346, 9845, -13131,
+ 0> <info> app: HR raw 103, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 100, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 73, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 50, HR avr 89
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 162, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 77, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 77, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 90, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 77, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 935,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645479, 2366, 9980, -13138,
+ 0> <info> app: HR raw 63, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 85, HR avr 89
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 56, HR avr 89
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 80, HR avr 88
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 130, HR avr 89
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 89
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 68, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 142, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 83, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645489, 2333, 10011, -13242,
+ 0> <info> app: HR raw 125, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 127, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 105, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 89, HR avr 92
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> Stable HR = 92   
+ 0> <info> app: T HR 11.56
+ 0> HR Background stop
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 73, HR avr 88
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 130, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 61, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 938,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645499, 2286, 9885, -13098,
+ 0> <info> app: Flash Manufac, 0x1F ,Device ID 0x2500
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: Page for write 1314
+ 0> <info> app: Append Success
+ 0> <info> app: Save to flash
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: HR raw 100, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 101, HR avr 94
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 89, HR avr 93
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 69, HR avr 90
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 171, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 92, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 95, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 88, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 84, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 176, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 82, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645509, 2274, 9999, -13117,
+ 0> <info> app: HR raw 150, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 92, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 78, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 100, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 70, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 142, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 139, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 85, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 68, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 935,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645519, 2308, 9907, -13148,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 68, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 80, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 54, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 41, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 50, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 100, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 85, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645529, 2265, 9992, -13016,
+ 0> <info> app: HR raw 63, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 93, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 162, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 78, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 101, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 61, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 85, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 120, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 153, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 65, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645539, 2284, 9907, -13167,
+ 0> <info> app: HR raw 153, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 127, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 85, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 56, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 120, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 120, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 136, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 95, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 60, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 101, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645549, 2277, 10028, -13078,
+ 0> <info> app: HR raw 122, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 146, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 92, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> Stable HR = 99   
+ 0> <info> app: T HR 11.56
+ 0> HR Background stop
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 150, HR avr 150
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 111, HR avr 130
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 96, HR avr 119
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 133, HR avr 122
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 92, HR avr 116
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 72, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645559, 2293, 9905, -13135,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 81, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 85, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 139, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 63, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 82, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 53, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 69, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 107, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 933,SOC 100,BattFullDetect 0, 413V
+ 0> <info> app: Save 1535645569, 2328, 9905, -13113,
+ 0> <info> app: HR raw 176, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 139, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 65, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 127, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 109, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645579, 2332, 9864, -13078,
+ 0> <info> app: HR raw 115, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 171, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 166, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 111, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 107, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 133, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 105, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 107, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 120, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 127, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 81, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 166, HR avr 110
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 938,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645589, 2285, 9842, -13146,
+ 0> <info> app: HR raw 61, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 142, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 53, HR avr 107
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 49, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 133, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 90, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 93, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 109, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645599, 2348, 10018, -13064,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 59, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 67, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 57, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: ***********  Application started  ***********
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: ***********  Sensor initial ***********
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: Flash Manufac, 0x1F ,Device ID 0x2500
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: [FALL]	The version of configuration is not match.
+ 0> <info> app: [OK]	Write Defualt config.
+ 0> <info> app: [OK]	Using queue setting from flash memory
+ 0> <info> app: gender in flash 1
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: [OK]	OLED Initial
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK]	Max30102 Initial, Temperature 18.25
+ 0> <info> app: ********** End sensor initial *********
+ 0> 
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Read MAC:C97B0BE03C32
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: Raw 938,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Battery charge detect
+ 0> <info> app: Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 100, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 83, HR avr 91
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 939,SOC 100,BattFullDetect 0, 416V
+ 0> <info> app: Save 1535645289, 2275, 9896, -13212,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 166, HR avr 116
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 100, HR avr 112
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 52, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 166, HR avr 111
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 125, HR avr 113
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 65, HR avr 107
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 76, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 53, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645299, 2328, 9872, -13211,
+ 0> <info> app: HR raw 105, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 176, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 101, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 109, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 100, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 136, HR avr 107
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 146, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 52, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 109, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 166, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 120, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 150, HR avr 111
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 935,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645309, 2275, 9837, -13114,
+ 0> <info> app: HR raw 62, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 103, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 93, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 69, HR avr 107
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 52, HR avr 105
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 45, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645319, 2385, 9895, -13117,
+ 0> <info> app: HR raw 85, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 84, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 71, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 73, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 72, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 73, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 80, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 93, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645329, 2242, 9887, -13169,
+ 0> <info> app: HR raw 107, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 107, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 98, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 59, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 107, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 117, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 136, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 171, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 157, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 125, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 86, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 933,SOC 100,BattFullDetect 0, 413V
+ 0> <info> app: Save 1535645339, 2207, 9989, -13087,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 56, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 76, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: ***********  Application started  ***********
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: ***********  Sensor initial ***********
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: Flash Manufac, 0x1F ,Device ID 0x2500
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: [FALL]	The version of configuration is not match.
+ 0> <info> app: [OK]	Write Defualt config.
+ 0> <info> app: [OK]	Using queue setting from flash memory
+ 0> <info> app: gender in flash 1
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: [OK]	OLED Initial
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK]	Max30102 Initial, Temperature 16.12
+ 0> <info> app: ********** End sensor initial *********
+ 0> 
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Read MAC:C97B0BE03C32
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Battery charge detect
+ 0> <info> app: Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 109, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 105, HR avr 107
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 933,SOC 100,BattFullDetect 0, 413V
+ 0> <info> app: Save 1535645289, 2357, 9871, -13195,
+ 0> <info> app: HR raw 72, HR avr 95
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 133, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 82, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 146, HR avr 107
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 150, HR avr 113
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 74, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 171, HR avr 115
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 100, HR avr 114
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 938,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645299, 2209, 9878, -13144,
+ 0> <info> app: HR raw 92, HR avr 112
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 81, HR avr 104
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 63, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 68, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 139, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 67, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 83, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645309, 2390, 9972, -13207,
+ 0> <info> app: HR raw 122, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 136, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 136, HR avr 102
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 93, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 133, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 111, HR avr 103
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 46, HR avr 101
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 63, HR avr 100
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 51, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 115, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 101, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 935,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645319, 2405, 9960, -13170,
+ 0> <info> app: HR raw 75, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 101, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 117, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 111, HR avr 99
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 77, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 92, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 115, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 50, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 93, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 153, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645329, 2269, 9932, -13218,
+ 0> <info> app: HR raw 44, HR avr 96
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 133, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 130, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 82, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 107, HR avr 98
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 48, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645339, 2238, 9871, -13078,
+ 0> <info> app: HR raw 98, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 97
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> Stable HR = 97   
+ 0> <info> app: T HR 11.62
+ 0> HR Background stop
+ 0> <info> app: Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 157, HR avr 157
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 105, HR avr 131
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 157, HR avr 139
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 95, HR avr 128
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 122, HR avr 127
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645349, 2312, 9862, -13146,
+ 0> <info> app: HR raw 117, HR avr 125
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 136, HR avr 127
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 133, HR avr 127
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 120, HR avr 126
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 127, HR avr 126
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 88, HR avr 123
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 142, HR avr 124
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 96, HR avr 122
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 146, HR avr 124
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 77, HR avr 121
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 68, HR avr 117
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 133, HR avr 118
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 937,SOC 100,BattFullDetect 0, 415V
+ 0> <info> app: Save 1535645359, 2384, 9934, -13062,
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 122, HR avr 118
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 142, HR avr 120
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 68, HR avr 117
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 63, HR avr 114
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 52, HR avr 112
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 78, HR avr 110
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 939,SOC 100,BattFullDetect 0, 416V
+ 0> <info> app: Save 1535645369, 2388, 9917, -13163,
+ 0> <info> app: HR raw 54, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 100, HR avr 107
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: HR raw 68, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 117, HR avr 106
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 153, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 162, HR avr 110
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 176, HR avr 112
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 100, HR avr 112
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 68, HR avr 110
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 117, HR avr 110
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 80, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 75, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 936,SOC 100,BattFullDetect 0, 414V
+ 0> <info> app: Save 1535645379, 2425, 9832, -13108,
+ 0> <info> app: HR raw 75, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 113, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 103, HR avr 108
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 92, HR avr 107
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 171, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 125, HR avr 109
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: HR raw 171, HR avr 111
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 146, HR avr 111
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: ***********  Application started  ***********
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0000. 
+ 0> <info> app: ***********  Sensor initial ***********
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: Flash Manufac, 0x1F ,Device ID 0x2500
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: [FALL]	The version of configuration is not match.
+ 0> <info> app: [OK]	Write Defualt config.
+ 0> <info> app: [OK]	Using queue setting from flash memory
+ 0> <info> app: gender in flash 1
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: ***********  Application started  ***********
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: ***********  Sensor initial ***********
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: Flash Manufac, 0x1F ,Device ID 0x2500
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: [FALL]	The version of configuration is not match.
+ 0> <info> app: [OK]	Write Defualt config.
+ 0> <info> app: [OK]	Using queue setting from flash memory
+ 0> <info> app: gender in flash 1
+ 0> <info> app: Flash Manufac, 0x00 ,Device ID 0x0000
+ 0> <info> app: [OK]	OLED Initial
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK]	Max30102 Initial, Temperature 14.56
+ 0> <info> app: ********** End sensor initial *********
+ 0> 
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Read MAC:C97B0BE03C32
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: Raw 896,SOC 96,BattFullDetect 1, 397V
+ 0> <info> app: Battery charge detect
+ 0> <info> app: Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: res_adv_set 0x0000
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 86, HR avr 86
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: HR raw 90, HR avr 88
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: SEM BATT = 1
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 1003,SOC 100,BattFullDetect 1, 444V
+ 0> <info> app: Save 1535714169, 2381, 9678, -13077,
+ 0> <info> app: HR raw 65, HR avr 80
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: HR raw 95, HR avr 84
+ 0> <info> app: ^
+ 0> <info> app: HR A
+ 0> <info> app: HR C
+ 0> <info> app: HR D

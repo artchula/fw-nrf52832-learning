@@ -1,0 +1,1533 @@
+# SEGGER J-Link RTT Viewer V6.16a Terminal Log File
+# Compiled: 12:44:10 on Jun  6 2017
+# Logging started @ 26 Nov 2018 10:16:38
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Battery charge detect
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 793,SOC 0,BattFullDetect 0, 351V
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 796,SOC 0,BattFullDetect 0, 352V
+ 0> <info> app: Save 1536337489, -779, 14979, -7412,
+ 0> <error> app: Pedo write to flash.
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: Page for write 984
+ 0> <info> app: Append Success
+ 0> <info> app: Save to flash
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: Enter Ultra Power Save Mode
+ 0> <info> app: Enter Full Mode
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: ***********  Application started  ***********
+ 0> 
+ 0> <info> app: [OK] NRF Power ON 0x0004. 
+ 0> <info> app: Read MAC:CC34D2110EF6
+ 0> <info> app: ***********  Sensor initial ***********
+ 0> <info> app: [OK]	BMI160
+ 0> <info> app: [OK]	SETUP ACC
+ 0> <info> app: [OK]	SETUP STEP COUNT
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: [OK]	Read and using configuration in flash memory
+ 0> <info> app: [OK]	Using queue setting from flash memory
+ 0> <info> app: gender in flash 1
+ 0> <info> app: [OK]	OLED Initial
+ 0> <info> app: [OK]	Max30102 Initial, Temperature 32.81
+ 0> <info> app: ********** End sensor initial *********
+ 0> 
+ 0> <info> app: Erase bonds!
+ 0> <info> app: BLE_ADV_EVT_FAST
+ 0> <info> app: advertising is started
+ 0> <info> app: [FALL] Device restart detected. It require setup timer from flash memory
+ 0> 
+ 0> <info> app: [OK]	FLASH MEMORY
+ 0> <info> app: [OK] Pedo data with pages 984
+ 0> 
+ 0> <error> app: [OK] Unix Time in flash 1536337400
+ 0> <error> app: [OK] Unix Time in flash 1536337410
+ 0> <error> app: [OK] Unix Time in flash 1536337420
+ 0> <error> app: [OK] Unix Time in flash 1536337434
+ 0> <error> app: [OK] Unix Time in flash 1536337440
+ 0> <error> app: [OK] Unix Time in flash 1536337449
+ 0> <error> app: [OK] Unix Time in flash 1536337459
+ 0> <error> app: [OK] Unix Time in flash 1536337469
+ 0> <info> app: ALERT_BT_CHECK_WAIT_KRY
+ 0> <info> app: Battery charge detect
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 798,SOC 0,BattFullDetect 0, 353V
+ 0> <info> app: Save 1536337490, 3505, -722, -17206,
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 796,SOC 0,BattFullDetect 0, 352V
+ 0> <info> app: Save 1536337500, 3412, -761, -17210,
+ 0> <info> app: Unplug USE Detect
+ 0> <info> app: Right Press
+ 0> <info> app: Right Press
+ 0> <info> app: Right Press
+ 0> <info> app: Right Press
+ 0> <info> app: [OK]	Max30102 Already and background working is begin
+ 0> 
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 783,SOC 0,BattFullDetect 0, 347V
+ 0> <info> app: Save 1536337510, 3990, -590, -17064,
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 788,SOC 0,BattFullDetect 0, 349V
+ 0> <info> app: Save 1536337520, 4031, -642, -17039,
+ 0> <info> app: [OK]	HR sample count 1017
+ 0> <info> app: hr,50,-30167, -17.00 ,0
+ 0> <info> app: hr,51,-30144, -15.00 ,0
+ 0> <info> app: hr,52,-30150, -13.00 ,0
+ 0> <info> app: hr,53,-30174, -10.00 ,0
+ 0> <info> app: hr,54,-30127, -9.00 ,0
+ 0> <info> app: hr,55,-30175, -6.00 ,0
+ 0> <info> app: hr,56,-30148, -4.00 ,0
+ 0> <info> app: hr,57,-30154, -2.00 ,0
+ 0> <info> app: hr,58,-30148, 0.00 ,0
+ 0> <info> app: hr,59,-30177, 2.00 ,0
+ 0> <info> app: hr,60,-30173, 4.00 ,0
+ 0> <info> app: hr,61,-30173, 7.00 ,1
+ 0> <info> app: hr,62,-30171, 9.00 ,1
+ 0> <info> app: hr,63,-30181, 11.00 ,1
+ 0> <info> app: hr,64,-30185, 14.00 ,1
+ 0> <info> app: hr,65,-30204, 16.00 ,1
+ 0> <info> app: hr,66,-30166, 17.00 ,1
+ 0> <info> app: hr,67,-30168, 19.00 ,1
+ 0> <info> app: hr,68,-30161, 21.00 ,1
+ 0> <info> app: hr,69,-30177, 23.00 ,1
+ 0> <info> app: hr,70,-30187, 25.00 ,1
+ 0> <info> app: hr,71,-30154, 27.00 ,1
+ 0> <info> app: hr,72,-30189, 28.00 ,1
+ 0> <info> app: hr,73,-30207, 30.00 ,1
+ 0> <info> app: hr,74,-30171, 31.00 ,1
+ 0> <info> app: hr,75,-30179, 32.00 ,1
+ 0> <info> app: hr,76,-30159, 33.00 ,1
+ 0> <info> app: hr,77,-30159, 34.00 ,1
+ 0> <info> app: hr,78,-30174, 35.00 ,1
+ 0> <info> app: hr,79,-30155, 36.00 ,1
+ 0> <info> app: hr,80,-30154, 36.00 ,1
+ 0> <info> app: hr,81,-30165, 36.00 ,1
+ 0> <info> app: hr,82,-30157, 36.00 ,1
+ 0> <info> app: hr,83,-30156, 37.00 ,1
+ 0> <info> app: hr,84,-30134, 36.00 ,1
+ 0> <info> app: hr,85,-30148, 36.00 ,1
+ 0> <info> app: hr,86,-30134, 35.00 ,0
+ 0> <info> app: hr,87,-30144, 34.00 ,0
+ 0> <info> app: hr,88,-30137, 34.00 ,0
+ 0> <info> app: hr,89,-30127, 33.00 ,0
+ 0> <info> app: hr,90,-30138, 32.00 ,-1
+ 0> <info> app: hr,91,-30141, 32.00 ,-1
+ 0> <info> app: hr,92,-30133, 30.00 ,-1
+ 0> <info> app: hr,93,-30113, 28.00 ,-1
+ 0> <info> app: hr,94,-30123, 27.00 ,-1
+ 0> <info> app: hr,95,-30102, 26.00 ,-1
+ 0> <info> app: hr,96,-30124, 24.00 ,-1
+ 0> <info> app: hr,97,-30121, 23.00 ,-1
+ 0> <info> app: hr,98,-30110, 21.00 ,-1
+ 0> <info> app: hr,99,-30122, 20.00 ,-1
+ 0> <info> app: hr,100,-30118, 18.00 ,-1
+ 0> <info> app: hr,101,-30102, 16.00 ,-1
+ 0> <info> app: hr,102,-30119, 14.00 ,-1
+ 0> <info> app: hr,103,-30077, 12.00 ,-1
+ 0> <info> app: hr,104,-30105, 11.00 ,-1
+ 0> <info> app: hr,105,-30054, 9.00 ,-1
+ 0> <info> app: hr,106,-30075, 7.00 ,-1
+ 0> <info> app: hr,107,-30069, 5.00 ,-1
+ 0> <info> app: hr,108,-30099, 3.00 ,-1
+ 0> <info> app: hr,109,-30086, 1.00 ,-1
+ 0> <info> app: hr,110,-30077, 0.00 ,-1
+ 0> <info> app: hr,111,-30052, -2.00 ,-1
+ 0> <info> app: hr,112,-30073, -4.00 ,-1
+ 0> <info> app: hr,113,-30085, -6.00 ,-1
+ 0> <info> app: hr,114,-30057, -9.00 ,-1
+ 0> <info> app: hr,115,-30073, -10.00 ,-1
+ 0> <info> app: hr,116,-30034, -12.00 ,-1
+ 0> <info> app: hr,117,-30048, -14.00 ,-1
+ 0> <info> app: hr,118,-30052, -15.00 ,-1
+ 0> <info> app: hr,119,-30050, -17.00 ,-1
+ 0> <info> app: hr,120,-30022, -20.00 ,-1
+ 0> <info> app: hr,121,-30009, -22.00 ,-1
+ 0> <info> app: hr,122,-30026, -23.00 ,-1
+ 0> <info> app: hr,123,-30017, -25.00 ,-1
+ 0> <info> app: hr,124,-30055, -27.00 ,-1
+ 0> <info> app: hr,125,-30047, -29.00 ,-1
+ 0> <info> app: hr,126,-30070, -30.00 ,-1
+ 0> <info> app: hr,127,-30081, -32.00 ,-1
+ 0> <info> app: hr,128,-30067, -32.00 ,-1
+ 0> <info> app: hr,129,-30070, -33.00 ,-1
+ 0> <info> app: hr,130,-30104, -34.00 ,-1
+ 0> <info> app: hr,131,-30097, -35.00 ,-1
+ 0> <info> app: hr,132,-30071, -35.00 ,-1
+ 0> <info> app: hr,133,-30096, -34.00 ,-1
+ 0> <info> app: hr,134,-30104, -35.00 ,-1
+ 0> <info> app: hr,135,-30134, -35.00 ,-1
+ 0> <info> app: hr,136,-30123, -34.00 ,-1
+ 0> <info> app: hr,137,-30124, -33.00 ,-1
+ 0> <info> app: hr,138,-30151, -32.00 ,-1
+ 0> <info> app: hr,139,-30120, -30.00 ,-1
+ 0> <info> app: hr,140,-30150, -30.00 ,-1
+ 0> <info> app: hr,141,-30153, -27.00 ,-1
+ 0> <info> app: hr,142,-30134, -26.00 ,-1
+ 0> <info> app: hr,143,-30137, -23.00 ,-1
+ 0> <info> app: hr,144,-30151, -22.00 ,-1
+ 0> <info> app: hr,145,-30135, -20.00 ,-1
+ 0> <info> app: hr,146,-30133, -17.00 ,-1
+ 0> <info> app: hr,147,-30152, -15.00 ,-1
+ 0> <info> app: hr,148,-30162, -13.00 ,-1
+ 0> <info> app: hr,149,-30121, -11.00 ,-1
+ 0> <info> app: hr,150,-30171, -9.00 ,-1
+ 0> <info> app: hr,151,-30135, -7.00 ,-1
+ 0> <info> app: hr,152,-30163, -4.00 ,-1
+ 0> <info> app: hr,153,-30160, -2.00 ,-1
+ 0> <info> app: hr,154,-30150, 0.00 ,0
+ 0> <info> app: hr,155,-30142, 1.00 ,0
+ 0> <info> app: hr,156,-30121, 2.00 ,0
+ 0> <info> app: hr,157,-30149, 4.00 ,1
+ 0> <info> app: hr,158,-30136, 6.00 ,1
+ 0> <info> app: hr,159,-30146, 7.00 ,1
+ 0> <info> app: hr,160,-30158, 9.00 ,1
+ 0> <info> app: hr,161,-30145, 11.00 ,1
+ 0> <info> app: hr,162,-30122, 12.00 ,1
+ 0> <info> app: hr,163,-30148, 13.00 ,1
+ 0> <info> app: hr,164,-30152, 15.00 ,1
+ 0> <info> app: hr,165,-30108, 15.00 ,1
+ 0> <info> app: hr,166,-30163, 16.00 ,1
+ 0> <info> app: hr,167,-30144, 16.00 ,1
+ 0> <info> app: hr,168,-30122, 17.00 ,1
+ 0> <info> app: hr,169,-30128, 18.00 ,1
+ 0> <info> app: hr,170,-30130, 19.00 ,1
+ 0> <info> app: hr,171,-30129, 19.00 ,1
+ 0> <info> app: hr,172,-30113, 19.00 ,1
+ 0> <info> app: hr,173,-30109, 19.00 ,1
+ 0> <info> app: hr,174,-30130, 19.00 ,1
+ 0> <info> app: hr,175,-30096, 19.00 ,1
+ 0> <info> app: hr,176,-30097, 19.00 ,1
+ 0> <info> app: hr,177,-30119, 18.00 ,1
+ 0> <info> app: hr,178,-30109, 17.00 ,1
+ 0> <info> app: hr,179,-30103, 17.00 ,1
+ 0> <info> app: hr,180,-30073, 16.00 ,0
+ 0> <info> app: hr,181,-30091, 15.00 ,-1
+ 0> <info> app: hr,182,-30048, 14.00 ,-1
+ 0> <info> app: hr,183,-30062, 13.00 ,-1
+ 0> <info> app: hr,184,-30062, 11.00 ,-1
+ 0> <info> app: hr,185,-30051, 10.00 ,-1
+ 0> <info> app: hr,186,-30085, 8.00 ,-1
+ 0> <info> app: hr,187,-30043, 7.00 ,-1
+ 0> <info> app: hr,188,-30059, 4.00 ,-1
+ 0> <info> app: hr,189,-30047, 3.00 ,-1
+ 0> <info> app: hr,190,-30045, 1.00 ,-1
+ 0> <info> app: hr,191,-30042, 0.00 ,-1
+ 0> <info> app: hr,192,-30048, -2.00 ,-1
+ 0> <info> app: hr,193,-30057, -4.00 ,-1
+ 0> <info> app: hr,194,-30034, -6.00 ,-1
+ 0> <info> app: hr,195,-30060, -7.00 ,-1
+ 0> <info> app: hr,196,-30036, -9.00 ,-1
+ 0> <info> app: hr,197,-30034, -11.00 ,-1
+ 0> <info> app: hr,198,-30037, -13.00 ,-1
+ 0> <info> app: hr,199,-30005, -14.00 ,-1
+ 0> <info> app: hr,200,-30013, -17.00 ,-1
+ 0> <info> app: hr,201,-29976, -19.00 ,-1
+ 0> <info> app: hr,202,-30024, -20.00 ,-1
+ 0> <info> app: hr,203,-30018, -22.00 ,-1
+ 0> <info> app: hr,204,-30012, -24.00 ,-1
+ 0> <info> app: hr,205,-30009, -25.00 ,-1
+ 0> <info> app: hr,206,-29999, -27.00 ,-1
+ 0> <info> app: hr,207,-29981, -29.00 ,-1
+ 0> <info> app: hr,208,-29965, -31.00 ,-1
+ 0> <info> app: hr,209,-29977, -33.00 ,-1
+ 0> <info> app: hr,210,-29991, -34.00 ,-1
+ 0> <info> app: hr,211,-29979, -36.00 ,-1
+ 0> <info> app: hr,212,-29957, -37.00 ,-1
+ 0> <info> app: hr,213,-29995, -40.00 ,-1
+ 0> <info> app: hr,214,-30000, -41.00 ,-1
+ 0> <info> app: hr,215,-30002, -43.00 ,-1
+ 0> <info> app: hr,216,-29997, -43.00 ,-1
+ 0> <info> app: hr,217,-29996, -44.00 ,-1
+ 0> <info> app: hr,218,-30024, -45.00 ,-1
+ 0> <info> app: hr,219,-30013, -46.00 ,-1
+ 0> <info> app: hr,220,-30021, -46.00 ,-1
+ 0> <info> app: hr,221,-30045, -46.00 ,-1
+ 0> <info> app: hr,222,-30034, -47.00 ,-1
+ 0> <info> app: hr,223,-30073, -46.00 ,-1
+ 0> <info> app: hr,224,-30043, -46.00 ,-1
+ 0> <info> app: hr,225,-30065, -45.00 ,-1
+ 0> <info> app: hr,226,-30083, -43.00 ,-1
+ 0> <info> app: hr,227,-30076, -42.00 ,-1
+ 0> <info> app: hr,228,-30062, -41.00 ,-1
+ 0> <info> app: hr,229,-30093, -39.00 ,-1
+ 0> <info> app: hr,230,-30085, -37.00 ,-1
+ 0> <info> app: hr,231,-30105, -35.00 ,-1
+ 0> <info> app: hr,232,-30126, -33.00 ,-1
+ 0> <info> app: hr,233,-30103, -31.00 ,-1
+ 0> <info> app: hr,234,-30072, -28.00 ,-1
+ 0> <info> app: hr,235,-30107, -26.00 ,-1
+ 0> <info> app: hr,236,-30081, -23.00 ,-1
+ 0> <info> app: hr,237,-30109, -20.00 ,-1
+ 0> <info> app: hr,238,-30115, -18.00 ,-1
+ 0> <info> app: hr,239,-30099, -15.00 ,-1
+ 0> <info> app: hr,240,-30103, -12.00 ,-1
+ 0> <info> app: hr,241,-30112, -10.00 ,-1
+ 0> <info> app: hr,242,-30106, -7.00 ,-1
+ 0> <info> app: hr,243,-30122, -5.00 ,-1
+ 0> <info> app: hr,244,-30119, -3.00 ,-1
+ 0> <info> app: hr,245,-30123, 0.00 ,0
+ 0> <info> app: hr,246,-30118, 2.00 ,0
+ 0> <info> app: hr,247,-30119, 4.00 ,1
+ 0> <info> app: hr,248,-30129, 6.00 ,1
+ 0> <info> app: hr,249,-30147, 9.00 ,1
+ 0> <info> app: hr,250,-30096, 11.00 ,1
+ 0> <info> app: hr,251,-30118, 14.00 ,1
+ 0> <info> app: hr,252,-30102, 15.00 ,1
+ 0> <info> app: hr,253,-30113, 17.00 ,1
+ 0> <info> app: hr,254,-30124, 19.00 ,1
+ 0> <info> app: hr,255,-30093, 20.00 ,1
+ 0> <info> app: hr,256,-30128, 21.00 ,1
+ 0> <info> app: hr,257,-30100, 23.00 ,1
+ 0> <info> app: hr,258,-30096, 24.00 ,1
+ 0> <info> app: hr,259,-30108, 25.00 ,1
+ 0> <info> app: hr,260,-30103, 27.00 ,1
+ 0> <info> app: hr,261,-30098, 27.00 ,1
+ 0> <info> app: hr,262,-30074, 27.00 ,1
+ 0> <info> app: hr,263,-30077, 27.00 ,1
+ 0> <info> app: hr,264,-30082, 28.00 ,1
+ 0> <info> app: hr,265,-30095, 28.00 ,1
+ 0> <info> app: hr,266,-30113, 27.00 ,1
+ 0> <info> app: hr,267,-30115, 27.00 ,0
+ 0> <info> app: hr,268,-30084, 27.00 ,1
+ 0> <info> app: hr,269,-30085, 27.00 ,0
+ 0> <info> app: hr,270,-30077, 27.00 ,0
+ 0> <info> app: hr,271,-30063, 25.00 ,0
+ 0> <info> app: hr,272,-30074, 25.00 ,0
+ 0> <info> app: hr,273,-30091, 24.00 ,0
+ 0> <info> app: hr,274,-30086, 24.00 ,0
+ 0> <info> app: hr,275,-30068, 22.00 ,0
+ 0> <info> app: hr,276,-30039, 21.00 ,-1
+ 0> <info> app: hr,277,-30070, 20.00 ,-1
+ 0> <info> app: hr,278,-30027, 19.00 ,-1
+ 0> <info> app: hr,279,-30070, 18.00 ,0
+ 0> <info> app: hr,280,-30073, 16.00 ,-1
+ 0> <info> app: hr,281,-30037, 15.00 ,-1
+ 0> <info> app: hr,282,-30043, 14.00 ,-1
+ 0> <info> app: hr,283,-30040, 12.00 ,-1
+ 0> <info> app: hr,284,-30060, 10.00 ,-1
+ 0> <info> app: hr,285,-30041, 9.00 ,-1
+ 0> <info> app: hr,286,-30039, 7.00 ,-1
+ 0> <info> app: hr,287,-30060, 5.00 ,-1
+ 0> <info> app: hr,288,-30015, 4.00 ,-1
+ 0> <info> app: hr,289,-30022, 2.00 ,-1
+ 0> <info> app: hr,290,-30032, 0.00 ,-1
+ 0> <info> app: hr,291,-30018, -1.00 ,-1
+ 0> <info> app: hr,292,-30024, -2.00 ,-1
+ 0> <info> app: hr,293,-30021, -4.00 ,-1
+ 0> <info> app: hr,294,-30021, -5.00 ,-1
+ 0> <info> app: hr,295,-30025, -7.00 ,-1
+ 0> <info> app: hr,296,-30014, -9.00 ,-1
+ 0> <info> app: hr,297,-30026, -10.00 ,-1
+ 0> <info> app: hr,298,-30003, -12.00 ,-1
+ 0> <info> app: hr,299,-30018, -13.00 ,-1
+ 0> <info> app: hr,300,-30046, -14.00 ,-1
+ 0> <info> app: hr,301,-30039, -16.00 ,-1
+ 0> <info> app: hr,302,-30051, -17.00 ,-1
+ 0> <info> app: hr,303,-30081, -18.00 ,-1
+ 0> <info> app: hr,304,-30082, -19.00 ,-1
+ 0> <info> app: hr,305,-30093, -19.00 ,-1
+ 0> <info> app: hr,306,-30111, -19.00 ,-1
+ 0> <info> app: hr,307,-30109, -19.00 ,-1
+ 0> <info> app: hr,308,-30093, -19.00 ,-1
+ 0> <info> app: hr,309,-30097, -18.00 ,-1
+ 0> <info> app: hr,310,-30055, -17.00 ,-1
+ 0> <info> app: hr,311,-30142, -17.00 ,-1
+ 0> <info> app: hr,312,-30116, -15.00 ,-1
+ 0> <info> app: hr,313,-30132, -15.00 ,-1
+ 0> <info> app: hr,314,-30149, -13.00 ,-1
+ 0> <info> app: hr,315,-30140, -11.00 ,-1
+ 0> <info> app: hr,316,-30127, -10.00 ,-1
+ 0> <info> app: hr,317,-30160, -8.00 ,-1
+ 0> <info> app: hr,318,-30182, -6.00 ,-1
+ 0> <info> app: hr,319,-30164, -3.00 ,-1
+ 0> <info> app: hr,320,-30191, -1.00 ,-1
+ 0> <info> app: hr,321,-30192, 0.00 ,0
+ 0> <info> app: hr,322,-30156, 3.00 ,1
+ 0> <info> app: hr,323,-30174, 6.00 ,1
+ 0> <info> app: hr,324,-30160, 8.00 ,1
+ 0> <info> app: hr,325,-30167, 11.00 ,1
+ 0> <info> app: hr,326,-30185, 13.00 ,1
+ 0> <info> app: hr,327,-30178, 16.00 ,1
+ 0> <info> app: hr,328,-30161, 18.00 ,1
+ 0> <info> app: hr,329,-30180, 20.00 ,1
+ 0> <info> app: hr,330,-30170, 23.00 ,1
+ 0> <info> app: hr,331,-30204, 25.00 ,1
+ 0> <info> app: hr,332,-30194, 26.00 ,1
+ 0> <info> app: hr,333,-30179, 29.00 ,1
+ 0> <info> app: hr,334,-30185, 31.00 ,1
+ 0> <info> app: hr,335,-30176, 33.00 ,1
+ 0> <info> app: hr,336,-30183, 34.00 ,1
+ 0> <info> app: hr,337,-30184, 37.00 ,1
+ 0> <info> app: hr,338,-30201, 38.00 ,1
+ 0> <info> app: hr,339,-30207, 39.00 ,1
+ 0> <info> app: hr,340,-30172, 41.00 ,1
+ 0> <info> app: hr,341,-30190, 42.00 ,1
+ 0> <info> app: hr,342,-30187, 43.00 ,1
+ 0> <info> app: hr,343,-30169, 44.00 ,1
+ 0> <info> app: hr,344,-30191, 44.00 ,1
+ 0> <info> app: hr,345,-30163, 45.00 ,1
+ 0> <info> app: hr,346,-30153, 46.00 ,1
+ 0> <info> app: hr,347,-30180, 46.00 ,1
+ 0> <info> app: hr,348,-30185, 46.00 ,1
+ 0> <info> app: hr,349,-30181, 46.00 ,1
+ 0> <info> app: hr,350,-30159, 46.00 ,1
+ 0> <info> app: hr,351,-30158, 45.00 ,0
+ 0> <info> app: hr,352,-30148, 45.00 ,1
+ 0> <info> app: hr,353,-30159, 45.00 ,0
+ 0> <info> app: hr,354,-30182, 43.00 ,0
+ 0> <info> app: hr,355,-30145, 43.00 ,0
+ 0> <info> app: hr,356,-30175, 42.00 ,0
+ 0> <info> app: hr,357,-30162, 41.00 ,-1
+ 0> <info> app: hr,358,-30141, 40.00 ,0
+ 0> <info> app: hr,359,-30128, 39.00 ,0
+ 0> <info> app: hr,360,-30139, 38.00 ,0
+ 0> <info> app: hr,361,-30126, 36.00 ,-1
+ 0> <info> app: hr,362,-30126, 35.00 ,-1
+ 0> <info> app: hr,363,-30128, 33.00 ,-1
+ 0> <info> app: hr,364,-30131, 31.00 ,-1
+ 0> <info> app: hr,365,-30133, 29.00 ,-1
+ 0> <info> app: hr,366,-30141, 28.00 ,-1
+ 0> <info> app: hr,367,-30123, 25.00 ,-1
+ 0> <info> app: hr,368,-30140, 24.00 ,-1
+ 0> <info> app: hr,369,-30130, 22.00 ,-1
+ 0> <info> app: hr,370,-30103, 20.00 ,-1
+ 0> <info> app: hr,371,-30150, 19.00 ,-1
+ 0> <info> app: hr,372,-30127, 17.00 ,-1
+ 0> <info> app: hr,373,-30112, 15.00 ,-1
+ 0> <info> app: hr,374,-30096, 12.00 ,-1
+ 0> <info> app: hr,375,-30117, 10.00 ,-1
+ 0> <info> app: hr,376,-30090, 9.00 ,-1
+ 0> <info> app: hr,377,-30115, 6.00 ,-1
+ 0> <info> app: hr,378,-30088, 5.00 ,-1
+ 0> <info> app: hr,379,-30108, 3.00 ,-1
+ 0> <info> app: hr,380,-30105, 2.00 ,-1
+ 0> <info> app: hr,381,-30080, 0.00 ,-1
+ 0> <info> app: hr,382,-30109, -2.00 ,-1
+ 0> <info> app: hr,383,-30099, -3.00 ,-1
+ 0> <info> app: hr,384,-30104, -5.00 ,-1
+ 0> <info> app: hr,385,-30124, -7.00 ,-1
+ 0> <info> app: hr,386,-30106, -9.00 ,-1
+ 0> <info> app: hr,387,-30135, -9.00 ,-1
+ 0> <info> app: hr,388,-30114, -11.00 ,-1
+ 0> <info> app: hr,389,-30140, -12.00 ,-1
+ 0> <info> app: hr,390,-30173, -12.00 ,-1
+ 0> <info> app: hr,391,-30168, -13.00 ,-1
+ 0> <info> app: hr,392,-30154, -14.00 ,-1
+ 0> <info> app: hr,393,-30177, -13.00 ,-1
+ 0> <info> app: hr,394,-30179, -14.00 ,-1
+ 0> <info> app: hr,395,-30193, -13.00 ,-1
+ 0> <info> app: hr,396,-30195, -12.00 ,-1
+ 0> <info> app: hr,397,-30227, -12.00 ,-1
+ 0> <info> app: hr,398,-30199, -11.00 ,-1
+ 0> <info> app: hr,399,-30201, -9.00 ,-1
+ 0> <info> app: hr,400,-30242, -8.00 ,-1
+ 0> <info> app: hr,401,-30218, -7.00 ,-1
+ 0> <info> app: hr,402,-30232, -5.00 ,-1
+ 0> <info> app: hr,403,-30246, -3.00 ,-1
+ 0> <info> app: hr,404,-30260, -1.00 ,0
+ 0> <info> app: hr,405,-30263, 0.00 ,0
+ 0> <info> app: hr,406,-30249, 2.00 ,0
+ 0> <info> app: hr,407,-30271, 5.00 ,1
+ 0> <info> app: hr,408,-30265, 8.00 ,1
+ 0> <info> app: hr,409,-30262, 10.00 ,1
+ 0> <info> app: hr,410,-30269, 13.00 ,1
+ 0> <info> app: hr,411,-30308, 16.00 ,1
+ 0> <info> app: hr,412,-30265, 18.00 ,1
+ 0> <info> app: hr,413,-30252, 21.00 ,1
+ 0> <info> app: hr,414,-30305, 24.00 ,1
+ 0> <info> app: hr,415,-30269, 26.00 ,1
+ 0> <info> app: hr,416,-30276, 29.00 ,1
+ 0> <info> app: hr,417,-30282, 31.00 ,1
+ 0> <info> app: hr,418,-30268, 34.00 ,1
+ 0> <info> app: hr,419,-30266, 36.00 ,1
+ 0> <info> app: hr,420,-30298, 38.00 ,1
+ 0> <info> app: hr,421,-30288, 40.00 ,1
+ 0> <info> app: hr,422,-30295, 42.00 ,1
+ 0> <info> app: hr,423,-30289, 44.00 ,1
+ 0> <info> app: hr,424,-30289, 46.00 ,1
+ 0> <info> app: hr,425,-30286, 48.00 ,1
+ 0> <info> app: hr,426,-30314, 48.00 ,1
+ 0> <info> app: hr,427,-30262, 50.00 ,1
+ 0> <info> app: hr,428,-30276, 51.00 ,1
+ 0> <info> app: hr,429,-30313, 53.00 ,1
+ 0> <info> app: hr,430,-30260, 53.00 ,1
+ 0> <info> app: hr,431,-30266, 53.00 ,1
+ 0> <info> app: hr,432,-30275, 55.00 ,1
+ 0> <info> app: hr,433,-30242, 55.00 ,1
+ 0> <info> app: hr,434,-30257, 54.00 ,1
+ 0> <info> app: hr,435,-30247, 54.00 ,1
+ 0> <info> app: hr,436,-30220, 54.00 ,0
+ 0> <info> app: hr,437,-30274, 53.00 ,0
+ 0> <info> app: hr,438,-30247, 52.00 ,0
+ 0> <info> app: hr,439,-30223, 52.00 ,0
+ 0> <info> app: hr,440,-30228, 51.00 ,0
+ 0> <info> app: hr,441,-30247, 49.00 ,-1
+ 0> <info> app: hr,442,-30208, 48.00 ,-1
+ 0> <info> app: hr,443,-30224, 46.00 ,-1
+ 0> <info> app: hr,444,-30248, 44.00 ,-1
+ 0> <info> app: hr,445,-30218, 43.00 ,-1
+ 0> <info> app: hr,446,-30230, 41.00 ,-1
+ 0> <info> app: hr,447,-30246, 39.00 ,-1
+ 0> <info> app: hr,448,-30205, 37.00 ,-1
+ 0> <info> app: hr,449,-30209, 35.00 ,-1
+ 0> <info> app: hr,450,-30202, 33.00 ,-1
+ 0> <info> app: hr,451,-30198, 30.00 ,-1
+ 0> <info> app: hr,452,-30202, 28.00 ,-1
+ 0> <info> app: hr,453,-30185, 26.00 ,-1
+ 0> <info> app: hr,454,-30192, 23.00 ,-1
+ 0> <info> app: hr,455,-30207, 21.00 ,-1
+ 0> <info> app: hr,456,-30173, 19.00 ,-1
+ 0> <info> app: hr,457,-30166, 16.00 ,-1
+ 0> <info> app: hr,458,-30186, 13.00 ,-1
+ 0> <info> app: hr,459,-30161, 11.00 ,-1
+ 0> <info> app: hr,460,-30166, 9.00 ,-1
+ 0> <info> app: hr,461,-30210, 5.00 ,-1
+ 0> <info> app: hr,462,-30172, 3.00 ,-1
+ 0> <info> app: hr,463,-30182, 1.00 ,-1
+ 0> <info> app: hr,464,-30180, 0.00 ,-1
+ 0> <info> app: hr,465,-30191, -3.00 ,-1
+ 0> <info> app: hr,466,-30134, -5.00 ,-1
+ 0> <info> app: hr,467,-30142, -7.00 ,-1
+ 0> <info> app: hr,468,-30173, -9.00 ,-1
+ 0> <info> app: hr,469,-30153, -12.00 ,-1
+ 0> <info> app: hr,470,-30165, -13.00 ,-1
+ 0> <info> app: hr,471,-30140, -16.00 ,-1
+ 0> <info> app: hr,472,-30150, -18.00 ,-1
+ 0> <info> app: hr,473,-30139, -19.00 ,-1
+ 0> <info> app: hr,474,-30177, -21.00 ,-1
+ 0> <info> app: hr,475,-30186, -23.00 ,-1
+ 0> <info> app: hr,476,-30176, -25.00 ,-1
+ 0> <info> app: hr,477,-30185, -25.00 ,-1
+ 0> <info> app: hr,478,-30192, -26.00 ,-1
+ 0> <info> app: hr,479,-30209, -28.00 ,-1
+ 0> <info> app: hr,480,-30229, -28.00 ,-1
+ 0> <info> app: hr,481,-30215, -28.00 ,-1
+ 0> <info> app: hr,482,-30223, -28.00 ,-1
+ 0> <info> app: hr,483,-30256, -28.00 ,-1
+ 0> <info> app: hr,484,-30227, -28.00 ,-1
+ 0> <info> app: hr,485,-30275, -27.00 ,-1
+ 0> <info> app: hr,486,-30271, -26.00 ,-1
+ 0> <info> app: hr,487,-30269, -25.00 ,-1
+ 0> <info> app: hr,488,-30268, -23.00 ,-1
+ 0> <info> app: hr,489,-30256, -22.00 ,-1
+ 0> <info> app: hr,490,-30279, -20.00 ,-1
+ 0> <info> app: hr,491,-30296, -18.00 ,-1
+ 0> <info> app: hr,492,-30276, -16.00 ,-1
+ 0> <info> app: hr,493,-30284, -13.00 ,-1
+ 0> <info> app: hr,494,-30278, -11.00 ,-1
+ 0> <info> app: hr,495,-30304, -9.00 ,-1
+ 0> <info> app: hr,496,-30304, -6.00 ,-1
+ 0> <info> app: hr,497,-30265, -3.00 ,-1
+ 0> <info> app: hr,498,-30304, -1.00 ,-1
+ 0> <info> app: hr,499,-30298, 0.00 ,0
+ 0> <info> app: hr,500,-30284, 3.00 ,1
+ 0> <info> app: hr,501,-30301, 5.00 ,1
+ 0> <info> app: hr,502,-30264, 8.00 ,1
+ 0> <info> app: hr,503,-30282, 10.00 ,1
+ 0> <info> app: hr,504,-30293, 12.00 ,1
+ 0> <info> app: hr,505,-30287, 14.00 ,1
+ 0> <info> app: hr,506,-30287, 16.00 ,1
+ 0> <info> app: hr,507,-30297, 19.00 ,1
+ 0> <info> app: hr,508,-30309, 20.00 ,1
+ 0> <info> app: hr,509,-30266, 22.00 ,1
+ 0> <info> app: hr,510,-30294, 23.00 ,1
+ 0> <info> app: hr,511,-30282, 24.00 ,1
+ 0> <info> app: hr,512,-30296, 26.00 ,1
+ 0> <info> app: hr,513,-30307, 27.00 ,1
+ 0> <info> app: hr,514,-30288, 28.00 ,1
+ 0> <info> app: hr,515,-30293, 29.00 ,1
+ 0> <info> app: hr,516,-30296, 30.00 ,1
+ 0> <info> app: hr,517,-30285, 31.00 ,1
+ 0> <info> app: hr,518,-30272, 31.00 ,1
+ 0> <info> app: hr,519,-30278, 32.00 ,1
+ 0> <info> app: hr,520,-30255, 32.00 ,1
+ 0> <info> app: hr,521,-30236, 32.00 ,1
+ 0> <info> app: hr,522,-30245, 33.00 ,1
+ 0> <info> app: hr,523,-30262, 32.00 ,1
+ 0> <info> app: hr,524,-30247, 32.00 ,1
+ 0> <info> app: hr,525,-30227, 31.00 ,0
+ 0> <info> app: hr,526,-30255, 30.00 ,0
+ 0> <info> app: hr,527,-30246, 29.00 ,0
+ 0> <info> app: hr,528,-30265, 28.00 ,-1
+ 0> <info> app: hr,529,-30247, 27.00 ,-1
+ 0> <info> app: hr,530,-30218, 26.00 ,-1
+ 0> <info> app: hr,531,-30194, 24.00 ,-1
+ 0> <info> app: hr,532,-30207, 23.00 ,-1
+ 0> <info> app: hr,533,-30222, 22.00 ,-1
+ 0> <info> app: hr,534,-30230, 20.00 ,-1
+ 0> <info> app: hr,535,-30230, 18.00 ,-1
+ 0> <info> app: hr,536,-30234, 17.00 ,-1
+ 0> <info> app: hr,537,-30192, 15.00 ,-1
+ 0> <info> app: hr,538,-30192, 13.00 ,-1
+ 0> <info> app: hr,539,-30197, 10.00 ,-1
+ 0> <info> app: hr,540,-30211, 9.00 ,-1
+ 0> <info> app: hr,541,-30174, 6.00 ,-1
+ 0> <info> app: hr,542,-30167, 4.00 ,-1
+ 0> <info> app: hr,543,-30185, 3.00 ,-1
+ 0> <info> app: hr,544,-30187, 0.00 ,-1
+ 0> <info> app: hr,545,-30187, -1.00 ,-1
+ 0> <info> app: hr,546,-30162, -3.00 ,-1
+ 0> <info> app: hr,547,-30191, -5.00 ,-1
+ 0> <info> app: hr,548,-30169, -8.00 ,-1
+ 0> <info> app: hr,549,-30158, -9.00 ,-1
+ 0> <info> app: hr,550,-30184, -12.00 ,-1
+ 0> <info> app: hr,551,-30158, -14.00 ,-1
+ 0> <info> app: hr,552,-30154, -15.00 ,-1
+ 0> <info> app: hr,553,-30184, -18.00 ,-1
+ 0> <info> app: hr,554,-30167, -20.00 ,-1
+ 0> <info> app: hr,555,-30205, -22.00 ,-1
+ 0> <info> app: hr,556,-30166, -23.00 ,-1
+ 0> <info> app: hr,557,-30203, -24.00 ,-1
+ 0> <info> app: hr,558,-30221, -25.00 ,-1
+ 0> <info> app: hr,559,-30244, -27.00 ,-1
+ 0> <info> app: hr,560,-30249, -28.00 ,-1
+ 0> <info> app: hr,561,-30238, -27.00 ,-1
+ 0> <info> app: hr,562,-30245, -28.00 ,-1
+ 0> <info> app: hr,563,-30279, -27.00 ,-1
+ 0> <info> app: hr,564,-30267, -27.00 ,-1
+ 0> <info> app: hr,565,-30253, -27.00 ,-1
+ 0> <info> app: hr,566,-30276, -25.00 ,-1
+ 0> <info> app: hr,567,-30286, -24.00 ,-1
+ 0> <info> app: hr,568,-30265, -23.00 ,-1
+ 0> <info> app: hr,569,-30277, -22.00 ,-1
+ 0> <info> app: hr,570,-30274, -19.00 ,-1
+ 0> <info> app: hr,571,-30284, -17.00 ,-1
+ 0> <info> app: hr,572,-30329, -16.00 ,-1
+ 0> <info> app: hr,573,-30313, -14.00 ,-1
+ 0> <info> app: hr,574,-30308, -11.00 ,-1
+ 0> <info> app: hr,575,-30304, -9.00 ,-1
+ 0> <info> app: hr,576,-30332, -7.00 ,-1
+ 0> <info> app: hr,577,-30331, -5.00 ,-1
+ 0> <info> app: hr,578,-30302, -1.00 ,-1
+ 0> <info> app: hr,579,-30313, 0.00 ,0
+ 0> <info> app: hr,580,-30318, 3.00 ,1
+ 0> <info> app: hr,581,-30299, 6.00 ,1
+ 0> <info> app: hr,582,-30337, 7.00 ,1
+ 0> <info> app: hr,583,-30334, 10.00 ,1
+ 0> <info> app: hr,584,-30319, 12.00 ,1
+ 0> <info> app: hr,585,-30321, 15.00 ,1
+ 0> <info> app: hr,586,-30303, 17.00 ,1
+ 0> <info> app: hr,587,-30344, 19.00 ,1
+ 0> <info> app: hr,588,-30315, 22.00 ,1
+ 0> <info> app: hr,589,-30320, 24.00 ,1
+ 0> <info> app: hr,590,-30334, 26.00 ,1
+ 0> <info> app: hr,591,-30324, 27.00 ,1
+ 0> <info> app: hr,592,-30336, 29.00 ,1
+ 0> <info> app: hr,593,-30331, 31.00 ,1
+ 0> <info> app: hr,594,-30307, 32.00 ,1
+ 0> <info> app: hr,595,-30316, 33.00 ,1
+ 0> <info> app: hr,596,-30310, 35.00 ,1
+ 0> <info> app: hr,597,-30319, 35.00 ,1
+ 0> <info> app: hr,598,-30309, 36.00 ,1
+ 0> <info> app: hr,599,-30318, 36.00 ,1
+ 0> <info> app: hr,600,-30319, 37.00 ,1
+ 0> <info> app: hr,601,-30318, 38.00 ,1
+ 0> <info> app: hr,602,-30314, 38.00 ,1
+ 0> <info> app: hr,603,-30314, 38.00 ,1
+ 0> <info> app: hr,604,-30309, 38.00 ,1
+ 0> <info> app: hr,605,-30335, 38.00 ,1
+ 0> <info> app: hr,606,-30299, 38.00 ,1
+ 0> <info> app: hr,607,-30326, 38.00 ,1
+ 0> <info> app: hr,608,-30299, 37.00 ,1
+ 0> <info> app: hr,609,-30297, 37.00 ,1
+ 0> <info> app: hr,610,-30297, 36.00 ,1
+ 0> <info> app: hr,611,-30285, 36.00 ,1
+ 0> <info> app: hr,612,-30278, 35.00 ,0
+ 0> <info> app: hr,613,-30268, 34.00 ,-1
+ 0> <info> app: hr,614,-30245, 33.00 ,-1
+ 0> <info> app: hr,615,-30286, 32.00 ,-1
+ 0> <info> app: hr,616,-30264, 30.00 ,-1
+ 0> <info> app: hr,617,-30257, 28.00 ,-1
+ 0> <info> app: hr,618,-30296, 27.00 ,-1
+ 0> <info> app: hr,619,-30277, 26.00 ,-1
+ 0> <info> app: hr,620,-30234, 23.00 ,-1
+ 0> <info> app: hr,621,-30260, 22.00 ,-1
+ 0> <info> app: hr,622,-30236, 20.00 ,-1
+ 0> <info> app: hr,623,-30237, 18.00 ,-1
+ 0> <info> app: hr,624,-30241, 16.00 ,-1
+ 0> <info> app: hr,625,-30252, 13.00 ,-1
+ 0> <info> app: hr,626,-30253, 12.00 ,-1
+ 0> <info> app: hr,627,-30269, 10.00 ,-1
+ 0> <info> app: hr,628,-30222, 7.00 ,-1
+ 0> <info> app: hr,629,-30227, 5.00 ,-1
+ 0> <info> app: hr,630,-30226, 4.00 ,-1
+ 0> <info> app: hr,631,-30226, 2.00 ,-1
+ 0> <info> app: hr,632,-30223, 0.00 ,-1
+ 0> <info> app: hr,633,-30224, -2.00 ,-1
+ 0> <info> app: hr,634,-30218, -3.00 ,-1
+ 0> <info> app: hr,635,-30205, -6.00 ,-1
+ 0> <info> app: hr,636,-30234, -8.00 ,-1
+ 0> <info> app: hr,637,-30221, -10.00 ,-1
+ 0> <info> app: hr,638,-30224, -12.00 ,-1
+ 0> <info> app: hr,639,-30252, -13.00 ,-1
+ 0> <info> app: hr,640,-30220, -15.00 ,-1
+ 0> <info> app: hr,641,-30265, -17.00 ,-1
+ 0> <info> app: hr,642,-30287, -18.00 ,-1
+ 0> <info> app: hr,643,-30280, -19.00 ,-1
+ 0> <info> app: hr,644,-30291, -19.00 ,-1
+ 0> <info> app: hr,645,-30299, -20.00 ,-1
+ 0> <info> app: hr,646,-30311, -20.00 ,-1
+ 0> <info> app: hr,647,-30303, -20.00 ,-1
+ 0> <info> app: hr,648,-30332, -20.00 ,-1
+ 0> <info> app: hr,649,-30344, -19.00 ,-1
+ 0> <info> app: hr,650,-30362, -18.00 ,-1
+ 0> <info> app: hr,651,-30321, -17.00 ,-1
+ 0> <info> app: hr,652,-30366, -15.00 ,-1
+ 0> <info> app: hr,653,-30390, -13.00 ,-1
+ 0> <info> app: hr,654,-30353, -12.00 ,-1
+ 0> <info> app: hr,655,-30399, -10.00 ,-1
+ 0> <info> app: hr,656,-30391, -8.00 ,-1
+ 0> <info> app: hr,657,-30367, -5.00 ,-1
+ 0> <info> app: hr,658,-30397, -2.00 ,-1
+ 0> <info> app: hr,659,-30380, 0.00 ,0
+ 0> <info> app: hr,660,-30400, 2.00 ,0
+ 0> <info> app: hr,661,-30395, 5.00 ,1
+ 0> <info> app: hr,662,-30378, 8.00 ,1
+ 0> <info> app: hr,663,-30398, 11.00 ,1
+ 0> <info> app: hr,664,-30363, 14.00 ,1
+ 0> <info> app: hr,665,-30393, 16.00 ,1
+ 0> <info> app: hr,666,-30385, 19.00 ,1
+ 0> <info> app: hr,667,-30372, 21.00 ,1
+ 0> <info> app: hr,668,-30380, 24.00 ,1
+ 0> <info> app: hr,669,-30407, 26.00 ,1
+ 0> <info> app: hr,670,-30402, 29.00 ,1
+ 0> <info> app: hr,671,-30400, 30.00 ,1
+ 0> <info> app: hr,672,-30401, 33.00 ,1
+ 0> <info> app: hr,673,-30393, 35.00 ,1
+ 0> <info> app: hr,674,-30404, 36.00 ,1
+ 0> <info> app: hr,675,-30392, 38.00 ,1
+ 0> <info> app: hr,676,-30382, 39.00 ,1
+ 0> <info> app: hr,677,-30399, 41.00 ,1
+ 0> <info> app: hr,678,-30374, 42.00 ,1
+ 0> <info> app: hr,679,-30381, 43.00 ,1
+ 0> <info> app: hr,680,-30377, 44.00 ,1
+ 0> <info> app: hr,681,-30390, 45.00 ,1
+ 0> <info> app: hr,682,-30396, 46.00 ,1
+ 0> <info> app: hr,683,-30392, 45.00 ,1
+ 0> <info> app: hr,684,-30387, 46.00 ,1
+ 0> <info> app: hr,685,-30363, 46.00 ,1
+ 0> <info> app: hr,686,-30396, 46.00 ,1
+ 0> <info> app: hr,687,-30393, 46.00 ,1
+ 0> <info> app: hr,688,-30347, 46.00 ,1
+ 0> <info> app: hr,689,-30363, 45.00 ,1
+ 0> <info> app: hr,690,-30398, 45.00 ,1
+ 0> <info> app: hr,691,-30337, 44.00 ,1
+ 0> <info> app: hr,692,-30371, 44.00 ,1
+ 0> <info> app: hr,693,-30356, 42.00 ,-1
+ 0> <info> app: hr,694,-30359, 41.00 ,-1
+ 0> <info> app: hr,695,-30363, 40.00 ,-1
+ 0> <info> app: hr,696,-30359, 39.00 ,-1
+ 0> <info> app: hr,697,-30323, 38.00 ,0
+ 0> <info> app: hr,698,-30357, 36.00 ,-1
+ 0> <info> app: hr,699,-30374, 34.00 ,-1
+ 0> <info> app: hr,700,-30340, 34.00 ,-1
+ 0> <info> app: hr,701,-30335, 32.00 ,-1
+ 0> <info> app: hr,702,-30349, 30.00 ,-1
+ 0> <info> app: hr,703,-30345, 28.00 ,-1
+ 0> <info> app: hr,704,-30337, 26.00 ,-1
+ 0> <info> app: hr,705,-30290, 25.00 ,-1
+ 0> <info> app: hr,706,-30301, 23.00 ,-1
+ 0> <info> app: hr,707,-30302, 21.00 ,-1
+ 0> <info> app: hr,708,-30325, 18.00 ,-1
+ 0> <info> app: hr,709,-30333, 17.00 ,-1
+ 0> <info> app: hr,710,-30314, 14.00 ,-1
+ 0> <info> app: hr,711,-30285, 12.00 ,-1
+ 0> <info> app: hr,712,-30309, 9.00 ,-1
+ 0> <info> app: hr,713,-30289, 7.00 ,-1
+ 0> <info> app: hr,714,-30289, 5.00 ,-1
+ 0> <info> app: hr,715,-30283, 3.00 ,-1
+ 0> <info> app: hr,716,-30277, 0.00 ,-1
+ 0> <info> app: hr,717,-30269, -1.00 ,-1
+ 0> <info> app: hr,718,-30286, -3.00 ,-1
+ 0> <info> app: hr,719,-30273, -6.00 ,-1
+ 0> <info> app: hr,720,-30273, -7.00 ,-1
+ 0> <info> app: hr,721,-30282, -10.00 ,-1
+ 0> <info> app: hr,722,-30253, -13.00 ,-1
+ 0> <info> app: hr,723,-30291, -14.00 ,-1
+ 0> <info> app: hr,724,-30300, -16.00 ,-1
+ 0> <info> app: hr,725,-30288, -18.00 ,-1
+ 0> <info> app: hr,726,-30311, -20.00 ,-1
+ 0> <info> app: hr,727,-30311, -21.00 ,-1
+ 0> <info> app: hr,728,-30300, -23.00 ,-1
+ 0> <info> app: hr,729,-30326, -24.00 ,-1
+ 0> <info> app: hr,730,-30370, -25.00 ,-1
+ 0> <info> app: hr,731,-30377, -26.00 ,-1
+ 0> <info> app: hr,732,-30393, -25.00 ,-1
+ 0> <info> app: hr,733,-30396, -25.00 ,-1
+ 0> <info> app: hr,734,-30398, -25.00 ,-1
+ 0> <info> app: hr,735,-30389, -23.00 ,-1
+ 0> <info> app: hr,736,-30421, -22.00 ,-1
+ 0> <info> app: hr,737,-30430, -21.00 ,-1
+ 0> <info> app: hr,738,-30444, -19.00 ,-1
+ 0> <info> app: hr,739,-30427, -17.00 ,-1
+ 0> <info> app: hr,740,-30427, -15.00 ,-1
+ 0> <info> app: hr,741,-30462, -12.00 ,-1
+ 0> <info> app: hr,742,-30450, -10.00 ,-1
+ 0> <info> app: hr,743,-30453, -7.00 ,-1
+ 0> <info> app: hr,744,-30483, -4.00 ,-1
+ 0> <info> app: hr,745,-30477, -1.00 ,0
+ 0> <info> app: hr,746,-30467, 1.00 ,0
+ 0> <info> app: hr,747,-30480, 5.00 ,1
+ 0> <info> app: hr,748,-30454, 8.00 ,1
+ 0> <info> app: hr,749,-30451, 12.00 ,1
+ 0> <info> app: hr,750,-30477, 15.00 ,1
+ 0> <info> app: hr,751,-30473, 18.00 ,1
+ 0> <info> app: hr,752,-30473, 21.00 ,1
+ 0> <info> app: hr,753,-30465, 24.00 ,1
+ 0> <info> app: hr,754,-30471, 27.00 ,1
+ 0> <info> app: hr,755,-30477, 30.00 ,1
+ 0> <info> app: hr,756,-30483, 32.00 ,1
+ 0> <info> app: hr,757,-30475, 35.00 ,1
+ 0> <info> app: hr,758,-30478, 38.00 ,1
+ 0> <info> app: hr,759,-30490, 40.00 ,1
+ 0> <info> app: hr,760,-30482, 42.00 ,1
+ 0> <info> app: hr,761,-30480, 44.00 ,1
+ 0> <info> app: hr,762,-30464, 46.00 ,1
+ 0> <info> app: hr,763,-30489, 48.00 ,1
+ 0> <info> app: hr,764,-30467, 50.00 ,1
+ 0> <info> app: hr,765,-30509, 50.00 ,1
+ 0> <info> app: hr,766,-30450, 52.00 ,1
+ 0> <info> app: hr,767,-30452, 53.00 ,1
+ 0> <info> app: hr,768,-30475, 53.00 ,1
+ 0> <info> app: hr,769,-30449, 55.00 ,1
+ 0> <info> app: hr,770,-30445, 55.00 ,1
+ 0> <info> app: hr,771,-30451, 55.00 ,1
+ 0> <info> app: hr,772,-30451, 54.00 ,1
+ 0> <info> app: hr,773,-30452, 55.00 ,1
+ 0> <info> app: hr,774,-30463, 54.00 ,0
+ 0> <info> app: hr,775,-30455, 54.00 ,0
+ 0> <info> app: hr,776,-30435, 53.00 ,0
+ 0> <info> app: hr,777,-30463, 52.00 ,0
+ 0> <info> app: hr,778,-30417, 51.00 ,0
+ 0> <info> app: hr,779,-30442, 51.00 ,0
+ 0> <info> app: hr,780,-30453, 49.00 ,0
+ 0> <info> app: hr,781,-30400, 47.00 ,-1
+ 0> <info> app: hr,782,-30412, 46.00 ,-1
+ 0> <info> app: hr,783,-30441, 45.00 ,-1
+ 0> <info> app: hr,784,-30402, 42.00 ,-1
+ 0> <info> app: hr,785,-30409, 40.00 ,-1
+ 0> <info> app: hr,786,-30419, 38.00 ,-1
+ 0> <info> app: hr,787,-30378, 36.00 ,-1
+ 0> <info> app: hr,788,-30422, 35.00 ,-1
+ 0> <info> app: hr,789,-30420, 32.00 ,-1
+ 0> <info> app: hr,790,-30390, 30.00 ,-1
+ 0> <info> app: hr,791,-30407, 28.00 ,-1
+ 0> <info> app: hr,792,-30407, 25.00 ,-1
+ 0> <info> app: hr,793,-30375, 23.00 ,-1
+ 0> <info> app: hr,794,-30393, 21.00 ,-1
+ 0> <info> app: hr,795,-30405, 19.00 ,-1
+ 0> <info> app: hr,796,-30373, 16.00 ,-1
+ 0> <info> app: hr,797,-30384, 14.00 ,-1
+ 0> <info> app: hr,798,-30360, 11.00 ,-1
+ 0> <info> app: hr,799,-30386, 9.00 ,-1
+ 0> <info> app: hr,800,-30398, 6.00 ,-1
+ 0> <info> app: hr,801,-30353, 4.00 ,-1
+ 0> <info> app: hr,802,-30381, 2.00 ,-1
+ 0> <info> app: hr,803,-30353, 0.00 ,-1
+ 0> <info> app: hr,804,-30354, -1.00 ,-1
+ 0> <info> app: hr,805,-30333, -4.00 ,-1
+ 0> <info> app: hr,806,-30353, -6.00 ,-1
+ 0> <info> app: hr,807,-30332, -9.00 ,-1
+ 0> <info> app: hr,808,-30348, -11.00 ,-1
+ 0> <info> app: hr,809,-30329, -13.00 ,-1
+ 0> <info> app: hr,810,-30333, -15.00 ,-1
+ 0> <info> app: hr,811,-30332, -17.00 ,-1
+ 0> <info> app: hr,812,-30353, -19.00 ,-1
+ 0> <info> app: hr,813,-30333, -21.00 ,-1
+ 0> <info> app: hr,814,-30334, -23.00 ,-1
+ 0> <info> app: hr,815,-30348, -26.00 ,-1
+ 0> <info> app: hr,816,-30334, -28.00 ,-1
+ 0> <info> app: hr,817,-30340, -29.00 ,-1
+ 0> <info> app: hr,818,-30398, -30.00 ,-1
+ 0> <info> app: hr,819,-30430, -31.00 ,-1
+ 0> <info> app: hr,820,-30408, -32.00 ,-1
+ 0> <info> app: hr,821,-30403, -33.00 ,-1
+ 0> <info> app: hr,822,-30430, -32.00 ,-1
+ 0> <info> app: hr,823,-30437, -33.00 ,-1
+ 0> <info> app: hr,824,-30444, -32.00 ,-1
+ 0> <info> app: hr,825,-30450, -32.00 ,-1
+ 0> <info> app: hr,826,-30450, -30.00 ,-1
+ 0> <info> app: hr,827,-30483, -28.00 ,-1
+ 0> <info> app: hr,828,-30459, -27.00 ,-1
+ 0> <info> app: hr,829,-30453, -26.00 ,-1
+ 0> <info> app: hr,830,-30498, -23.00 ,-1
+ 0> <info> app: hr,831,-30480, -21.00 ,-1
+ 0> <info> app: hr,832,-30491, -19.00 ,-1
+ 0> <info> app: hr,833,-30485, -16.00 ,-1
+ 0> <info> app: hr,834,-30462, -13.00 ,-1
+ 0> <info> app: hr,835,-30517, -11.00 ,-1
+ 0> <info> app: hr,836,-30511, -8.00 ,-1
+ 0> <info> app: hr,837,-30482, -5.00 ,-1
+ 0> <info> app: hr,838,-30505, -2.00 ,-1
+ 0> <info> app: hr,839,-30532, 0.00 ,0
+ 0> <info> app: hr,840,-30490, 3.00 ,0
+ 0> <info> app: hr,841,-30520, 6.00 ,1
+ 0> <info> app: hr,842,-30491, 9.00 ,1
+ 0> <info> app: hr,843,-30471, 12.00 ,1
+ 0> <info> app: hr,844,-30521, 14.00 ,1
+ 0> <info> app: hr,845,-30493, 17.00 ,1
+ 0> <info> app: hr,846,-30493, 20.00 ,1
+ 0> <info> app: hr,847,-30506, 22.00 ,1
+ 0> <info> app: hr,848,-30494, 24.00 ,1
+ 0> <info> app: hr,849,-30519, 26.00 ,1
+ 0> <info> app: hr,850,-30501, 29.00 ,1
+ 0> <info> app: hr,851,-30480, 30.00 ,1
+ 0> <info> app: hr,852,-30483, 32.00 ,1
+ 0> <info> app: hr,853,-30498, 33.00 ,1
+ 0> <info> app: hr,854,-30504, 35.00 ,1
+ 0> <info> app: hr,855,-30450, 36.00 ,1
+ 0> <info> app: hr,856,-30474, 37.00 ,1
+ 0> <info> app: hr,857,-30489, 37.00 ,1
+ 0> <info> app: hr,858,-30454, 38.00 ,1
+ 0> <info> app: hr,859,-30478, 38.00 ,1
+ 0> <info> app: hr,860,-30483, 38.00 ,1
+ 0> <info> app: hr,861,-30462, 38.00 ,1
+ 0> <info> app: hr,862,-30457, 38.00 ,1
+ 0> <info> app: hr,863,-30481, 38.00 ,1
+ 0> <info> app: hr,864,-30439, 38.00 ,1
+ 0> <info> app: hr,865,-30475, 37.00 ,1
+ 0> <info> app: hr,866,-30452, 36.00 ,1
+ 0> <info> app: hr,867,-30456, 35.00 ,0
+ 0> <info> app: hr,868,-30436, 34.00 ,-1
+ 0> <info> app: hr,869,-30438, 34.00 ,-1
+ 0> <info> app: hr,870,-30435, 32.00 ,-1
+ 0> <info> app: hr,871,-30433, 30.00 ,-1
+ 0> <info> app: hr,872,-30427, 29.00 ,-1
+ 0> <info> app: hr,873,-30409, 27.00 ,-1
+ 0> <info> app: hr,874,-30399, 26.00 ,-1
+ 0> <info> app: hr,875,-30454, 24.00 ,-1
+ 0> <info> app: hr,876,-30419, 21.00 ,-1
+ 0> <info> app: hr,877,-30425, 19.00 ,-1
+ 0> <info> app: hr,878,-30405, 17.00 ,-1
+ 0> <info> app: hr,879,-30387, 15.00 ,-1
+ 0> <info> app: hr,880,-30402, 14.00 ,-1
+ 0> <info> app: hr,881,-30398, 12.00 ,-1
+ 0> <info> app: hr,882,-30380, 9.00 ,-1
+ 0> <info> app: hr,883,-30376, 7.00 ,-1
+ 0> <info> app: hr,884,-30399, 4.00 ,-1
+ 0> <info> app: hr,885,-30361, 2.00 ,-1
+ 0> <info> app: hr,886,-30373, 0.00 ,-1
+ 0> <info> app: hr,887,-30368, -2.00 ,-1
+ 0> <info> app: hr,888,-30346, -4.00 ,-1
+ 0> <info> app: hr,889,-30388, -7.00 ,-1
+ 0> <info> app: hr,890,-30350, -9.00 ,-1
+ 0> <info> app: hr,891,-30330, -12.00 ,-1
+ 0> <info> app: hr,892,-30346, -14.00 ,-1
+ 0> <info> app: hr,893,-30370, -16.00 ,-1
+ 0> <info> app: hr,894,-30384, -19.00 ,-1
+ 0> <info> app: hr,895,-30372, -21.00 ,-1
+ 0> <info> app: hr,896,-30339, -23.00 ,-1
+ 0> <info> app: hr,897,-30335, -24.00 ,-1
+ 0> <info> app: hr,898,-30342, -27.00 ,-1
+ 0> <info> app: hr,899,-30346, -29.00 ,-1
+ 0> <info> app: hr,900,-30333, -30.00 ,-1
+ 0> <info> app: hr,901,-30322, -33.00 ,-1
+ 0> <info> app: hr,902,-30340, -34.00 ,-1
+ 0> <info> app: hr,903,-30336, -35.00 ,-1
+ 0> <info> app: hr,904,-30364, -38.00 ,-1
+ 0> <info> app: hr,905,-30390, -39.00 ,-1
+ 0> <info> app: hr,906,-30376, -40.00 ,-1
+ 0> <info> app: hr,907,-30395, -41.00 ,-1
+ 0> <info> app: hr,908,-30434, -41.00 ,-1
+ 0> <info> app: hr,909,-30415, -41.00 ,-1
+ 0> <info> app: hr,910,-30442, -41.00 ,-1
+ 0> <info> app: hr,911,-30430, -41.00 ,-1
+ 0> <info> app: hr,912,-30410, -39.00 ,-1
+ 0> <info> app: hr,913,-30432, -38.00 ,-1
+ 0> <info> app: hr,914,-30451, -38.00 ,-1
+ 0> <info> app: hr,915,-30474, -36.00 ,-1
+ 0> <info> app: hr,916,-30448, -34.00 ,-1
+ 0> <info> app: hr,917,-30460, -32.00 ,-1
+ 0> <info> app: hr,918,-30449, -30.00 ,-1
+ 0> <info> app: hr,919,-30501, -28.00 ,-1
+ 0> <info> app: hr,920,-30480, -25.00 ,-1
+ 0> <info> app: hr,921,-30485, -23.00 ,-1
+ 0> <info> app: hr,922,-30436, -20.00 ,-1
+ 0> <info> app: hr,923,-30466, -18.00 ,-1
+ 0> <info> app: hr,924,-30473, -15.00 ,-1
+ 0> <info> app: hr,925,-30463, -12.00 ,-1
+ 0> <info> app: hr,926,-30497, -10.00 ,-1
+ 0> <info> app: hr,927,-30460, -7.00 ,-1
+ 0> <info> app: hr,928,-30459, -4.00 ,-1
+ 0> <info> app: hr,929,-30497, -2.00 ,-1
+ 0> <info> app: hr,930,-30464, 0.00 ,0
+ 0> <info> app: hr,931,-30465, 3.00 ,0
+ 0> <info> app: hr,932,-30483, 4.00 ,1
+ 0> <info> app: hr,933,-30463, 7.00 ,1
+ 0> <info> app: hr,934,-30468, 9.00 ,1
+ 0> <info> app: hr,935,-30487, 11.00 ,1
+ 0> <info> app: hr,936,-30512, 14.00 ,1
+ 0> <info> app: hr,937,-30457, 15.00 ,1
+ 0> <info> app: hr,938,-30485, 17.00 ,1
+ 0> <info> app: hr,939,-30475, 18.00 ,1
+ 0> <info> app: hr,940,-30485, 20.00 ,1
+ 0> <info> app: hr,941,-30440, 21.00 ,1
+ 0> <info> app: hr,942,-30456, 23.00 ,1
+ 0> <info> app: hr,943,-30466, 24.00 ,1
+ 0> <info> app: hr,944,-30446, 25.00 ,1
+ 0> <info> app: hr,945,-30428, 26.00 ,1
+ 0> <info> app: hr,946,-30466, 26.00 ,1
+ 0> <info> app: hr,947,-30458, 27.00 ,1
+ 0> <info> app: hr,948,-30423, 27.00 ,1
+ 0> <info> app: hr,949,-30445, 27.00 ,1
+ 0> <info> app: hr,950,-30443, 27.00 ,1
+ 0> <info> app: hr,951,-30441, 26.00 ,0
+ 0> <info> app: hr,952,-30424, 26.00 ,0
+ 0> <info> app: hr,953,-30422, 26.00 ,0
+ 0> <info> app: hr,954,-30422, 24.00 ,0
+ 0> <info> app: hr,955,-30438, 24.00 ,0
+ 0> <info> app: hr,956,-30446, 23.00 ,0
+ 0> <info> app: hr,957,-30421, 23.00 ,0
+ 0> <info> app: hr,958,-30440, 22.00 ,0
+ 0> <info> app: hr,959,-30409, 21.00 ,-1
+ 0> <info> app: hr,960,-30406, 19.00 ,-1
+ 0> <info> app: hr,961,-30421, 17.00 ,-1
+ 0> <info> app: hr,962,-30402, 17.00 ,-1
+ 0> <info> app: hr,963,-30402, 15.00 ,-1
+ 0> <info> app: hr,964,-30385, 14.00 ,-1
+ 0> <info> app: hr,965,-30427, 12.00 ,-1
+ 0> <info> app: hr,966,-30405, 11.00 ,-1
+ 0> <info> app: hr,967,-30374, 9.00 ,-1
+ 0> <info> app: hr,968,-30398, 8.00 ,-1
+ 0> <info> app: hr,969,-30392, 6.00 ,-1
+ 0> <info> app: hr,970,-30416, 4.00 ,-1
+ 0> <info> app: hr,971,-30411, 3.00 ,-1
+ 0> <info> app: hr,972,-30396, 0.00 ,-1
+ 0> <info> app: hr,973,-30397, 0.00 ,-1
+ 0> <info> app: hr,974,-30378, -2.00 ,-1
+ 0> <info> app: hr,975,-30336, -2.00 ,-1
+ 0> <info> app: hr,976,-30349, -4.00 ,-1
+ 0> <info> app: hr,977,-30399, -6.00 ,-1
+ 0> <info> app: hr,978,-30333, -8.00 ,-1
+ 0> <info> app: hr,979,-30357, -9.00 ,-1
+ 0> <info> app: hr,980,-30343, -11.00 ,-1
+ 0> <info> app: hr,981,-30310, -13.00 ,-1
+ 0> <info> app: hr,982,-30339, -16.00 ,-1
+ 0> <info> app: hr,983,-30356, -17.00 ,-1
+ 0> <info> app: hr,984,-30322, -19.00 ,-1
+ 0> <info> app: hr,985,-30346, -21.00 ,-1
+ 0> <info> app: hr,986,-30340, -23.00 ,-1
+ 0> <info> app: hr,987,-30322, -25.00 ,-1
+ 0> <info> app: hr,988,-30340, -26.00 ,-1
+ 0> <info> app: hr,989,-30351, -28.00 ,-1
+ 0> <info> app: hr,990,-30352, -30.00 ,-1
+ 0> <info> app: hr,991,-30350, -30.00 ,-1
+ 0> <info> app: hr,992,-30342, -32.00 ,-1
+ 0> <info> app: hr,993,-30382, -33.00 ,-1
+ 0> <info> app: hr,994,-30401, -33.00 ,-1
+ 0> <info> app: hr,995,-30406, -35.00 ,-1
+ 0> <info> app: hr,996,-30401, -35.00 ,-1
+ 0> <info> app: hr,997,-30393, -35.00 ,-1
+ 0> <info> app: hr,998,-30444, -34.00 ,-1
+ 0> <info> app: hr,999,-30434, -34.00 ,-1
+ 0> <info> app: hr,1000,-30455, -33.00 ,-1
+ 0> <info> app: hr,1001,-30457, -32.00 ,-1
+ 0> <info> app: hr,1002,-30452, -31.00 ,-1
+ 0> <info> app: hr,1003,-30476, -29.00 ,-1
+ 0> <info> app: hr,1004,-30466, -28.00 ,-1
+ 0> <info> app: hr,1005,-30472, -25.00 ,-1
+ 0> <info> app: hr,1006,-30483, -23.00 ,-1
+ 0> <info> app: hr,1007,-30507, -20.00 ,-1
+ 0> <info> app: hr,1008,-30482, -18.00 ,-1
+ 0> <info> app: hr,1009,-30474, -15.00 ,-1
+ 0> <info> app: hr,1010,-30514, -12.00 ,-1
+ 0> <info> app: hr,1011,-30498, -8.00 ,-1
+ 0> <info> app: hr,1012,-30477, -6.00 ,-1
+ 0> <info> app: hr,1013,-30518, -3.00 ,-1
+ 0> <info> app: hr,1014,-30520, 0.00 ,0
+ 0> <info> app: hr,1015,-30500, 3.00 ,0
+ 0> <info> app: hr,1016,-30521, 5.00 ,1
+ 0> <info> app: [OK]	HR has been calculated
+ 0> <info> app: BATT Reading...
+ 0> <info> app: Raw 786,SOC 0,BattFullDetect 0, 348V
+ 0> <info> app: Save 1536337533, 4032, -665, -17035,
+ 0> <info> app: [OK]	HR Background stop
+ 0> <info> app: Show HR Result
+
+# Logging stopped @ 26 Nov 2018 10:17:56

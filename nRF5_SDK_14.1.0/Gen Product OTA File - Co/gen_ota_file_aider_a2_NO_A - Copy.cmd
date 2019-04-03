@@ -1,0 +1,1 @@
+nrfutil pkg generate --hw-version 52 --sd-req 0xa8 --application-version 2 --application ".\nrf52832_xxaa_NO_B.hex" --key-file private.pem app_aider_a2_sdk15_v1_test_dfu_NO_B.zip

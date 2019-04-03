@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\..\..\config -I ..\config --reduce_paths
+-I.\RTE\_flash_s132_nrf52_5.0.0_softdevice
+-IC:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.17.0\Device\Include
+-IC:\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="524" -D_RTE_ -DNRF52
+-o ..\..\..\..\..\..\components\softdevice\s132\hex\pedometer.o --omf_browse ..\..\..\..\..\..\components\softdevice\s132\hex\pedometer.crf --depend ..\..\..\..\..\..\components\softdevice\s132\hex\pedometer.d "..\..\..\pedometer.c"

@@ -1,0 +1,608 @@
+# SEGGER J-Link RTT Viewer V6.16a Terminal Log File
+# Compiled: 12:44:10 on Jun  6 2017
+# Logging started @ 23 Nov 2018 16:09:48
+<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 31.81
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 67, minus_index 102, Peak Index, 89,90,91,92,93,94,95,96,97,98,99,100,101,, AVR Peak Index, 95, HR 0, Reject out of 30-180.
+ 9> plus_index 119, minus_index 155, Peak Index, 134,135,136,138,139,140,141,142,, AVR Peak Index, 138, HR 279, Reject out of 30-180.
+ 9> plus_index 214, minus_index 280, Peak Index, 249,252,255,258,260,262,263,265,266,268,269,, AVR Peak Index, 259, HR 99
+ 9> plus_index 341, minus_index 381, Peak Index, 341,, AVR Peak Index, 341, HR 146
+ 9> plus_index 417, minus_index 442, Peak Index, 428,, AVR Peak Index, 428, HR 137
+ 9> plus_index 506, minus_index 557, Peak Index, 517,518,546,547,548,549,550,551,552,553,554,555,556,, AVR Peak Index, 536, HR 111
+ 9> plus_index 653, minus_index 700, Peak Index, 665,666,669,670,671,672,, AVR Peak Index, 668, HR 90
+ 9> plus_index 761, minus_index 817, Peak Index, 779,781,782,784,785,787,788,789,791,792,795,799,802,, AVR Peak Index, 790, HR 98
+ 9> plus_index 878, minus_index 945, Peak Index, 925,926,928,929,930,931,934,935,936,, AVR Peak Index, 930, HR 85<info> app: HR>>>
+ 9> 85,90,98,99,111,137,146, sum div 61,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 31.87
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 123, minus_index 136, Peak Index, 123,124,125,126,127,128,129,130,, AVR Peak Index, 126, HR 0, Reject out of 30-180.
+ 9> plus_index 369, minus_index 410, Peak Index, 383,384,385,386,387,, AVR Peak Index, 385, HR 46
+ 9> plus_index 505, minus_index 541, Peak Index, 521,525,526,, AVR Peak Index, 523, HR 86
+ 9> plus_index 665, minus_index 709, Peak Index, 676,677,678,679,685,686,687,688,689,, AVR Peak Index, 682, HR 75
+ 9> plus_index 790, minus_index 852, Peak Index, 801,, AVR Peak Index, 801, HR 100<info> app: HR>>>
+ 9> 46,75,86,100, sum div 54,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.06
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 997
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 106, minus_index 154, Peak Index, 142,145,, AVR Peak Index, 143, HR 0, Reject out of 30-180.
+ 9> plus_index 272, minus_index 363, Peak Index, 282,283,284,287,288,289,290,, AVR Peak Index, 286, HR 83
+ 9> plus_index 408, minus_index 465, Peak Index, 428,431,432,434,435,436,437,438,439,440,444,, AVR Peak Index, 436, HR 80
+ 9> plus_index 548, minus_index 615, Peak Index, 585,588,589,591,592,593,595,596,597,598,599,600,603,604,, AVR Peak Index, 594, HR 75
+ 9> plus_index 688, minus_index 720, Peak Index, 707,709,710,711,712,713,714,715,716,717,718,719,, AVR Peak Index, 713, HR 100
+ 9> plus_index 818, minus_index 860, Peak Index, 840,842,844,845,847,, AVR Peak Index, 843, HR 92<info> app: HR>>>
+ 9> 75,80,83,92,100, sum div 25,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.00
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 91, minus_index 156, Peak Index, 141,142,143,144,, AVR Peak Index, 142, HR 0, Reject out of 30-180.
+ 9> plus_index 581, minus_index 628, Peak Index, 593,594,595,596,599,600,601,602,603,604,605,, AVR Peak Index, 599, HR 26, Reject out of 30-180.
+ 9> plus_index 714, minus_index 739, Peak Index, 721,722,, AVR Peak Index, 721, HR 98
+ 9> plus_index 869, minus_index 955, Peak Index, 883,884,, AVR Peak Index, 883, HR 74<info> app: HR>>>
+ 9> 74,98, sum div 24,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.25
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 128, minus_index 166, Peak Index, 154,157,, AVR Peak Index, 155, HR 0, Reject out of 30-180.
+ 9> plus_index 273, minus_index 319, Peak Index, 301,303,306,, AVR Peak Index, 303, HR 81
+ 9> plus_index 422, minus_index 465, Peak Index, 452,453,455,456,457,458,459,460,, AVR Peak Index, 456, HR 78
+ 9> plus_index 581, minus_index 636, Peak Index, 595,597,598,600,601,604,605,607,608,610,611,615,618,621,, AVR Peak Index, 608, HR 78
+ 9> plus_index 711, minus_index 793, Peak Index, 735,736,738,739,740,741,742,744,745,748,749,, AVR Peak Index, 742, HR 89
+ 9> plus_index 871, minus_index 913, Peak Index, 893,894,895,896,897,898,899,900,901,903,, AVR Peak Index, 898, HR 76<info> app: HR>>>
+ 9> 76,78,78,81,89, sum div 13,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.18
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 92, minus_index 239, Peak Index, 92,94,96,97,99,101,102,, AVR Peak Index, 97, HR 0, Reject out of 30-180.
+ 9> plus_index 273, minus_index 306, Peak Index, 292,296,297,298,299,300,301,302,303,304,, AVR Peak Index, 298, HR 59
+ 9> plus_index 351, minus_index 393, Peak Index, 375,, AVR Peak Index, 375, HR 155
+ 9> plus_index 461, minus_index 491, Peak Index, 468,470,471,472,473,474,475,476,479,480,, AVR Peak Index, 474, HR 121
+ 9> plus_index 518, minus_index 595, Peak Index, 540,541,543,, AVR Peak Index, 541, HR 179
+ 9> plus_index 626, minus_index 651, Peak Index, 634,636,637,638,639,640,643,, AVR Peak Index, 638, HR 123
+ 9> plus_index 946, minus_index 978, Peak Index, 952,953,954,955,956,957,959,960,961,962,, AVR Peak Index, 957, HR 37<info> app: HR>>>
+ 9> 37,59,121,123,155,179, sum div 142,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.25
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 110, minus_index 208, Peak Index, 183,, AVR Peak Index, 183, HR 0, Reject out of 30-180.
+ 9> plus_index 299, minus_index 346, Peak Index, 321,323,325,328,330,332,334,336,, AVR Peak Index, 328, HR 82
+ 9> plus_index 421, minus_index 520, Peak Index, 511,, AVR Peak Index, 511, HR 65
+ 9> plus_index 646, minus_index 696, Peak Index, 678,, AVR Peak Index, 678, HR 71
+ 9> plus_index 818, minus_index 860, Peak Index, 828,833,837,838,841,842,843,, AVR Peak Index, 835, HR 76<info> app: HR>>>
+ 9> 65,71,76,82, sum div 17, 2<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.18
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 107, minus_index 168, Peak Index, 159,160,161,162,, AVR Peak Index, 160, HR 0, Reject out of 30-180.
+ 9> plus_index 274, minus_index 428, Peak Index, 418,419,423,, AVR Peak Index, 420, HR 46
+ 9> plus_index 553, minus_index 611, Peak Index, 594,595,596,597,598,599,600,601,602,603,604,605,606,607,608,609,610,, AVR Peak Index, 602, HR 65
+ 9> plus_index 661, minus_index 693, Peak Index, 687,688,, AVR Peak Index, 687, HR 141
+ 9> plus_index 721, minus_index 757, Peak Index, 746,747,748,750,, AVR Peak Index, 748, HR 196, Reject out of 30-180.
+ 9> plus_index 853, minus_index 900, Peak Index, 878,881,882,885,886,887,888,889,890,891,892,893,894,895,896,897,898,899,, AVR Peak Index, 888, HR 85<info> app: HR>>>
+ 9> 46,65,85,141, sum div 95, 31<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.31
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 63, minus_index 111, Peak Index, 72,73,74,75,76,77,78,79,80,81,82,84,85,87,88,90,91,92,93,95,96,97,98,99,, AVR Peak Index, 85, HR 0, Reject out of 30-180.
+ 9> plus_index 230, minus_index 283, Peak Index, 246,249,250,251,253,254,255,256,, AVR Peak Index, 251, HR 72
+ 9> plus_index 371, minus_index 421, Peak Index, 395,396,399,400,403,404,407,408,411,412,415,, AVR Peak Index, 405, HR 77
+ 9> plus_index 526, minus_index 611, Peak Index, 568,579,589,590,594,595,, AVR Peak Index, 581, HR 68
+ 9> plus_index 665, minus_index 734, Peak Index, 685,686,688,689,690,691,692,693,694,695,696,697,698,699,700,702,703,704,705,707,708,709,712,713,714,717,718,719,, AVR Peak Index, 702, HR 99
+ 9> plus_index 769, minus_index 792, Peak Index, 769,770,771,772,, AVR Peak Index, 770, HR 176
+ 9> plus_index 815, minus_index 950, Peak Index, 942,943,944,945,, AVR Peak Index, 943, HR 69<info> app: HR>>>
+ 9> 68,69,72,77,99,176, sum div 108, 21<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.43
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 63, minus_index 135, Peak Index, 96,, AVR Peak Index, 96, HR 0, Reject out of 30-180.
+ 9> plus_index 238, minus_index 286, Peak Index, 248,251,252,253,256,257,258,262,263,268,, AVR Peak Index, 258, HR 74
+ 9> plus_index 331, minus_index 456, Peak Index, 393,399,400,401,402,403,404,405,406,407,408,409,410,411,418,419,420,421,425,426,427,428,429,430,, AVR Peak Index, 411, HR 78
+ 9> plus_index 561, minus_index 644, Peak Index, 586,590,591,592,593,608,, AVR Peak Index, 597, HR 64
+ 9> plus_index 704, minus_index 768, Peak Index, 719,729,730,735,740,, AVR Peak Index, 729, HR 90
+ 9> plus_index 855, minus_index 940, Peak Index, 905,910,, AVR Peak Index, 907, HR 67<info> app: HR>>>
+ 9> 64,67,74,78,90, sum div 26, 6<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.50
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 133, minus_index 206, Peak Index, 185,188,189,190,191,192,193,194,197,198,199,, AVR Peak Index, 192, HR 0, Reject out of 30-180.
+ 9> plus_index 314, minus_index 365, Peak Index, 355,356,, AVR Peak Index, 355, HR 73
+ 9> plus_index 456, minus_index 491, Peak Index, 480,481,482,483,484,485,486,487,488,489,, AVR Peak Index, 484, HR 93
+ 9> plus_index 624, minus_index 684, Peak Index, 642,, AVR Peak Index, 642, HR 75
+ 9> plus_index 767, minus_index 793, Peak Index, 782,, AVR Peak Index, 782, HR 85
+ 9> plus_index 927, minus_index 969, Peak Index, 938,940,941,942,943,946,, AVR Peak Index, 942, HR 75<info> app: HR>>>
+ 9> 73,75,75,85,93, sum div 20, 5<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.50
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 213, minus_index 242, Peak Index, 229,231,232,233,234,235,236,237,238,239,240,241,, AVR Peak Index, 235, HR 0, Reject out of 30-180.
+ 9> plus_index 360, minus_index 474, Peak Index, 398,400,401,403,404,405,406,408,409,, AVR Peak Index, 403, HR 71
+ 9> plus_index 535, minus_index 577, Peak Index, 553,555,556,557,558,559,560,562,563,565,, AVR Peak Index, 559, HR 76
+ 9> plus_index 609, minus_index 624, Peak Index, 609,610,611,612,613,614,615,616,617,618,619,620,621,622,623,, AVR Peak Index, 616, HR 210, Reject out of 30-180.
+ 9> plus_index 696, minus_index 767, Peak Index, 704,708,709,712,713,714,725,730,733,734,735,738,739,740,, AVR Peak Index, 722, HR 113
+ 9> plus_index 841, minus_index 883, Peak Index, 862,864,865,867,868,870,, AVR Peak Index, 866, HR 83<info> app: HR>>>
+ 9> 71,76,83,113, sum div 42, 14<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.43
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 105, minus_index 119, Peak Index, 105,, AVR Peak Index, 105, HR 0, Reject out of 30-180.
+ 9> plus_index 191, minus_index 261, Peak Index, 227,228,, AVR Peak Index, 227, HR 98
+ 9> plus_index 331, minus_index 388, Peak Index, 348,352,353,356,357,358,361,362,363,364,365,366,367,, AVR Peak Index, 357, HR 92
+ 9> plus_index 485, minus_index 552, Peak Index, 509,516,, AVR Peak Index, 512, HR 77
+ 9> plus_index 656, minus_index 692, Peak Index, 676,679,682,685,, AVR Peak Index, 680, HR 71
+ 9> plus_index 811, minus_index 858, Peak Index, 836,837,841,842,, AVR Peak Index, 839, HR 75<info> app: HR>>>
+ 9> 71,75,77,92,98, sum div 27, 6<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.56
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 166, minus_index 208, Peak Index, 186,188,190,191,192,193,194,195,196,197,, AVR Peak Index, 191, HR 0, Reject out of 30-180.
+ 9> plus_index 241, minus_index 261, Peak Index, 241,242,243,244,245,246,247,, AVR Peak Index, 244, HR 226, Reject out of 30-180.
+ 9> plus_index 285, minus_index 382, Peak Index, 289,290,293,294,295,296,297,298,299,332,, AVR Peak Index, 310, HR 181, Reject out of 30-180.
+ 9> plus_index 492, minus_index 553, Peak Index, 492,493,494,495,500,501,502,503,504,505,506,507,508,509,510,511,514,515,516,517,518,519,520,521,522,523,524,525,526,, AVR Peak Index, 509, HR 60
+ 9> plus_index 623, minus_index 669, Peak Index, 646,648,649,651,652,653,655,656,, AVR Peak Index, 651, HR 84
+ 9> plus_index 790, minus_index 833, Peak Index, 806,807,809,810,811,, AVR Peak Index, 808, HR 76
+ 9> plus_index 948, minus_index 991, Peak Index, 959,962,, AVR Peak Index, 960, HR 78<info> app: HR>>>
+ 9> 60,76,78,84, sum div 24, 8<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.62
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 63, minus_index 88, Peak Index, 70,71,75,76,77,78,, AVR Peak Index, 74, HR 0, Reject out of 30-180.
+ 9> plus_index 146, minus_index 284, Peak Index, 224,228,229,230,231,235,236,237,245,, AVR Peak Index, 234, HR 75
+ 9> plus_index 358, minus_index 397, Peak Index, 365,371,372,, AVR Peak Index, 368, HR 89
+ 9> plus_index 515, minus_index 574, Peak Index, 536,538,539,540,543,544,546,547,548,, AVR Peak Index, 542, HR 68
+ 9> plus_index 675, minus_index 750, Peak Index, 696,697,719,720,723,724,725,729,730,734,735,, AVR Peak Index, 715, HR 69
+ 9> plus_index 822, minus_index 862, Peak Index, 839,841,842,843,844,845,846,847,849,850,, AVR Peak Index, 844, HR 93
+ 9> plus_index 912, minus_index 942, Peak Index, 925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940,941,, AVR Peak Index, 933, HR 134<info> app: HR>>>
+ 9> 68,69,75,89,93,134, sum div 66, 13<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 31.25
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 72, minus_index 101, Peak Index, 84,85,86,87,94,, AVR Peak Index, 89, HR 0, Reject out of 30-180.
+ 9> plus_index 122, minus_index 193, Peak Index, 146,147,150,151,152,185,, AVR Peak Index, 165, HR 157
+ 9> plus_index 258, minus_index 472, Peak Index, 284,, AVR Peak Index, 284, HR 100
+ 9> plus_index 567, minus_index 626, Peak Index, 604,605,606,607,, AVR Peak Index, 605, HR 37
+ 9> plus_index 719, minus_index 760, Peak Index, 740,742,743,744,, AVR Peak Index, 742, HR 87
+ 9> plus_index 835, minus_index 909, Peak Index, 874,, AVR Peak Index, 874, HR 90<info> app: HR>>>
+ 9> 37,87,90,100,157, sum div 120, 30<info> app: HR final>>>
+ 9> 87,90,100,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 31.56
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 179, minus_index 229, Peak Index, 221,222,223,224,, AVR Peak Index, 222, HR 0, Reject out of 30-180.
+ 9> plus_index 318, minus_index 370, Peak Index, 356,357,358,359,360,362,363,364,, AVR Peak Index, 360, HR 86
+ 9> plus_index 463, minus_index 511, Peak Index, 498,499,500,501,502,503,504,505,506,508,509,, AVR Peak Index, 503, HR 83
+ 9> plus_index 623, minus_index 655, Peak Index, 642,643,644,645,646,, AVR Peak Index, 644, HR 85
+ 9> plus_index 757, minus_index 805, Peak Index, 791,792,793,794,795,796,797,798,799,, AVR Peak Index, 795, HR 79
+ 9> plus_index 908, minus_index 963, Peak Index, 950,951,, AVR Peak Index, 950, HR 77<info> app: HR>>>
+ 9> 77,79,83,85,86, sum div 9, 2<info> app: HR final>>>
+ 9> 77,79,83,85,86,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 31.68
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 103, minus_index 150, Peak Index, 138,139,140,141,142,143,, AVR Peak Index, 140, HR 0, Reject out of 30-180.
+ 9> plus_index 259, minus_index 312, Peak Index, 303,304,305,306,, AVR Peak Index, 304, HR 73
+ 9> plus_index 412, minus_index 455, Peak Index, 444,445,446,447,448,449,450,451,452,453,454,, AVR Peak Index, 449, HR 82
+ 9> plus_index 555, minus_index 603, Peak Index, 591,592,593,594,595,596,598,, AVR Peak Index, 594, HR 82
+ 9> plus_index 698, minus_index 747, Peak Index, 734,735,736,737,738,739,740,, AVR Peak Index, 737, HR 83
+ 9> plus_index 842, minus_index 891, Peak Index, 883,, AVR Peak Index, 883, HR 82<info> app: HR>>>
+ 9> 73,82,82,82,83, sum div 10, 2<info> app: HR final>>>
+ 9> 73,82,82,82,83,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 31.81
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 66, minus_index 159, Peak Index, 103,106,107,109,110,111,, AVR Peak Index, 107, HR 0, Reject out of 30-180.
+ 9> plus_index 215, minus_index 277, Peak Index, 252,256,261,, AVR Peak Index, 256, HR 80
+ 9> plus_index 368, minus_index 437, Peak Index, 384,386,387,390,393,396,, AVR Peak Index, 390, HR 89
+ 9> plus_index 511, minus_index 594, Peak Index, 573,576,, AVR Peak Index, 574, HR 65
+ 9> plus_index 651, minus_index 751, Peak Index, 684,687,689,691,692,694,697,, AVR Peak Index, 690, HR 103
+ 9> plus_index 808, minus_index 842, Peak Index, 837,, AVR Peak Index, 837, HR 81
+ 9> plus_index 888, minus_index 896, Peak Index, 888,891,, AVR Peak Index, 889, HR 230, Reject out of 30-180.<info> app: HR>>>
+ 9> 65,80,81,89,103, sum div 38, 9<info> app: HR final>>>
+ 9> 65,80,81,89,103,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 31.87
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 144, minus_index 183, Peak Index, 170,172,173,174,175,176,177,178,179,180,181,, AVR Peak Index, 175, HR 0, Reject out of 30-180.
+ 9> plus_index 303, minus_index 360, Peak Index, 343,, AVR Peak Index, 343, HR 71
+ 9> plus_index 468, minus_index 519, Peak Index, 479,481,483,484,486,, AVR Peak Index, 482, HR 86
+ 9> plus_index 594, minus_index 633, Peak Index, 624,, AVR Peak Index, 624, HR 84
+ 9> plus_index 755, minus_index 785, Peak Index, 775,, AVR Peak Index, 775, HR 79
+ 9> plus_index 887, minus_index 956, Peak Index, 925,927,928,930,931,932,933,934,936,, AVR Peak Index, 930, HR 77<info> app: HR>>>
+ 9> 71,77,79,84,86, sum div 15, 3<info> app: HR final>>>
+ 9> 71,77,79,84,86,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.06
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 998
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 225, minus_index 265, Peak Index, 244,251,252,253,254,256,, AVR Peak Index, 250, HR 0, Reject out of 30-180.
+ 9> plus_index 353, minus_index 431, Peak Index, 386,388,390,391,416,418,420,421,422,423,, AVR Peak Index, 404, HR 77
+ 9> plus_index 517, minus_index 604, Peak Index, 548,549,551,553,554,555,557,, AVR Peak Index, 552, HR 81
+ 9> plus_index 658, minus_index 712, Peak Index, 702,705,, AVR Peak Index, 703, HR 79
+ 9> plus_index 820, minus_index 872, Peak Index, 850,853,855,856,858,859,860,861,862,863,864,866,868,, AVR Peak Index, 859, HR 76<info> app: HR>>>
+ 9> 76,77,79,81, sum div 5, 1<info> app: HR final>>>
+ 9> 76,77,79,81,<info> app: ***********  Application started  ***********
+ 9> 
+ 9> <info> app: [OK] NRF Power ON 0x0004. 
+ 9> <info> app: Read MAC:C3821CAEE6B5
+ 9> <info> app: ***********  Sensor initial ***********
+ 9> <info> app: [OK]	BMI160
+ 9> <info> app: [OK]	SETUP ACC
+ 9> <info> app: [OK]	SETUP STEP COUNT
+ 9> <info> app: [OK]	FLASH MEMORY
+ 9> <info> app: [OK]	OLED Initial
+ 9> <info> app: [OK]	Max30102 Initial, Temperature 32.18
+ 9> <info> app: ********** End sensor initial *********
+ 9> 
+ 9> <info> app: Max30102 Found
+ 9> 
+ 9> <info> app: HR Begin
+ 9> 
+ 9> <info> app: 997
+ 9> <info> app: HR Processing
+ 9> 
+ 9> 
+ 9> plus_index 80, minus_index 150, Peak Index, 104,105,106,107,108,109,110,111,112,114,116,117,119,120,122,123,124,125,126,127,129,, AVR Peak Index, 116, HR 0, Reject out of 30-180.
+ 9> plus_index 209, minus_index 338, Peak Index, 288,, AVR Peak Index, 288, HR 69
+ 9> plus_index 439, minus_index 486, Peak Index, 452,455,467,469,470,471,472,475,, AVR Peak Index, 463, HR 68
+ 9> plus_index 571, minus_index 616, Peak Index, 598,604,, AVR Peak Index, 601, HR 86
+ 9> plus_index 799, minus_index 813, Peak Index, 799,800,801,802,803,804,806,807,808,, AVR Peak Index, 803, HR 59
+ 9> plus_index 872, minus_index 932, Peak Index, 904,905,, AVR Peak Index, 904, HR 118<info> app: HR>>>
+ 9> 59,68,69,86,118, sum div 59, 14<info> app: HR final>>>
+ 9> 59,68,69,

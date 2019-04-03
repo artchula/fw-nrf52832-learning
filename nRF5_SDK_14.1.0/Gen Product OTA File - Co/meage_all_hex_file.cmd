@@ -1,0 +1,2 @@
+mergehex -m ".\nrf52832_xxaa.hex" ".\s132_nrf52_6.0.0_softdevice.hex" .\boot_loader_nrf52832_xxaa_s132.hex -o sf_app_test_bl.hex
+mergehex -m sf_app_test_bl.hex settings.hex -o sf_app_test_bl_setting.hex
